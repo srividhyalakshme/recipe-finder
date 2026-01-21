@@ -1,0 +1,2805 @@
+[
+    {
+        "id": 1,
+        "name": "Chicken Biryani",
+        "image": "../src/assets/biryani/Chicken Biryani.jpg",
+        "details": [
+            "Chicken – 500 g (bone-in pieces preferred)",
+            "Curd (yogurt) – ½ cup",
+            "Green chilies – 2 (slit)",
+            "Red chili powder – 1 tsp",
+            "Turmeric powder – ¼ tsp",
+            "Coriander powder – 1 tsp",
+            "Garam masala – 1 tsp",
+            "Lemon juice – 1 tbsp",
+            "Salt – 1 tsp",
+            "Fresh coriander leaves – 2 tbsp (chopped)",
+            "Fresh mint leaves – 2 tbsp (chopped)"
+        ],
+        "rice": [
+            "Basmati rice – 2 cups (soaked for 30 mins)",
+            "Water – 6 cups",
+            "Whole spices – Bay leaf – 1",
+            "Cinnamon stick – 1 inch",
+            "Green cardamom – 3",
+            "Cloves – 3",
+            "Salt – 1 tsp"
+        ],
+        "cooking": [
+            "Onions – 2 large (thinly sliced)",
+            "Oil – 3 tbsp",
+            "Ghee – 2 tbsp",
+            "Saffron – a few strands (soaked in 2 tbsp warm milk) OR ½ tsp turmeric milk",
+            "Fried onions – ½ cup (optional, for garnish)"
+        ],
+        "steps": [
+            "Step 1: Marinate the Chicken (15 mins prep + 30 mins rest)",
+            "Step 2: Cook the Rice (20 mins)",
+            "Step 3: Fry the Onions (10 mins)",
+            "Step 4: Cook the Chicken (15 mins)",
+            "Step 5: Layer the Biryani (10 mins prep + 20 mins cook)"
+        ],
+        "stepDetails": [
+            "In a mixing bowl, add chicken + all marinade ingredients.",
+            "Mix well, cover, and let it rest 30 minutes minimum (better if 1 hour).",
+            "Boil 6 cups of water with whole spices + salt.",
+            "Add soaked rice and cook until 70% done (grains should break with little pressure).",
+            "Drain and keep aside.",
+            "Heat oil + ghee in a wide pan.",
+            "Fry sliced onions until golden brown and crisp.",
+            "Remove half for garnish; keep half in the pan.",
+            "In the same pan with fried onions, add the marinated chicken.",
+            "Cook on medium flame until chicken is 80% cooked and oil separates.",
+            "In a heavy-bottom pan, keep the chicken masala at the bottom.",
+            "Spread half of the parboiled rice on top.",
+            "Sprinkle mint + coriander leaves + fried onions + saffron milk.",
+            "Add remaining rice and repeat toppings.",
+            "Cover tightly with a lid (or seal with dough) and cook on dum (low flame) for 20 minutes."
+        ],
+        "Time Breakdown": [
+            "Marination: 15 mins prep + 30 mins rest",
+            "Rice cooking: 20 mins",
+            "Onions frying: 10 mins"
+        ],
+        "Serving": [
+            "Fluff rice gently with a fork.",
+            "Serve hot with raita (curd + onion + cucumber)"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Duck Biryani",
+        "image": "../src/assets/biryani/Duck Biryani.jpg",
+        "details": [
+            "Duck meat – 1 kg (cut into medium pieces)",
+            "Curd (yogurt) – 1 cup",
+            "Ginger-garlic paste – 2 tbsp",
+            "Red chili powder – 2 tsp",
+            "Turmeric powder – ½ tsp ",
+            "Coriander powder – 1 tsp",
+            "Garam masala – 1 tsp",
+            "Lemon juice – 2 tbsp",
+            "Salt – as needed"
+        ],
+        "rice": [
+            "Basmati rice – 3 cups",
+            "Bay leaf – 2",
+            "Cloves – 4",
+            "Cinnamon stick – 1",
+            "Green cardamom – 3",
+            "Star anise – 1",
+            "Salt – as needed"
+        ],
+        "cooking": [
+            "Onions – 4 large (thinly sliced, fried golden brown)",
+            "Tomatoes – 3 medium (chopped)",
+            "Green chilies – 3 slit",
+            "Ginger-garlic paste – 1 tbsp",
+            "Fresh coriander leaves – ½ cup (chopped)",
+            "Fresh mint leaves – ½ cup (chopped)",
+            "Whole spices (bay leaf, cloves, cinnamon, cardamom) – 1 set",
+            "Ghee – 3 tbsp",
+            "Oil – 4 tbsp"
+        ],
+        "steps": [
+            "Step 1: Marinate Duck",
+            "Step 2: Cook Rice",
+            "Step 3: Prepare Duck Masala",
+            "Step 4: Layer Biryani",
+            "Step 5: Dum Cooking"
+        ],
+        "stepDetails": [
+            "Wash duck pieces and pat dry.",
+            "Mix with yogurt, ginger-garlic paste, chili powder, turmeric, coriander powder, ",
+            "garam masala, lemon juice, and salt.",
+            "Marinate for at least 2 hours (overnight for best flavor).",
+            "Wash and soak basmati rice for 30 mins.",
+            "Boil water with bay leaf, cloves, cinnamon, cardamom, star anise, and salt.",
+            "Add soaked rice and cook until 70% done (grains should be firm).",
+            "Drain and set aside.",
+            "Heat oil + ghee in a large pot.",
+            "Add whole spices, then add onions and fry till golden.",
+            "Add ginger-garlic paste and sauté.",
+            "Add tomatoes, green chilies, mint, and coriander. Cook till the masala thickens.",
+            "Add marinated duck and cook until the meat is 80% cooked and the masala is well combined. (Duck takes longer than chicken, so cook on medium flame, adding a little water if needed).",
+            "In a heavy-bottomed pot, spread half of the duck masala.",
+            "Add a layer of cooked rice.",
+            "Sprinkle fried onions, mint, coriander, and a little ghee.",
+            "Repeat layers until rice and meat are finished.",
+            "Drizzle saffron milk (optional).",
+            "Seal the pot with foil or dough, cover with a tight lid.",
+            "Place on low flame (or tawa) for 25–30 mins."
+        ],
+        "Time Breakdown": [
+            "Servings: 6 people",
+            "Cooking Time: 1 hr 30 mins (Preparation: 30 mins | Cooking: 1 hr)"
+        ],
+        "Serving": [
+            "Serve hot with raita, boiled eggs, or salan.",
+            "This recipe serves 6 people generously."
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Egg Biryani",
+        "image": "../src/assets/biryani/Egg Biryani.jpg",
+        "details": [
+            "Boiled Eggs – 6",
+            "Basmati Rice – 2 cups (soaked for 30 mins)",
+            "Onions – 3 large (thinly sliced)",
+            "Tomatoes – 2 medium (chopped)",
+            "Ginger-Garlic Paste – 2 tsp",
+            "Green Chilies – 3 (slit)",
+            "Curd/Yogurt – ½ cup",
+            "Mint Leaves – ½ cup",
+            "Coriander Leaves – ½ cup",
+            "Lemon Juice – 1 tbsp",
+            "Whole Spices – 1 bay leaf, 3 cloves, 2 cardamoms, 1 cinnamon stick, 1 star anise",
+            "Biryani Masala – 2 tsp",
+            "Red Chili Powder – 1 tsp",
+            "Turmeric Powder – ½ tsp",
+            "Coriander Powder – 1 tsp",
+            "Oil + Ghee – 3 tbsp",
+            "Salt – as needed",
+            "Saffron strands (optional) – soaked in 2 tbsp warm milk"
+        ],
+        "steps": [
+            "Boil and Fry Eggs (10 mins)",
+            "Cook Rice (15 mins)",
+            "Prepare Masala (15 mins)",
+            "Layering & Dum Cooking (20 mins)"
+        ],
+        "stepDetails": [
+            "Boil eggs, peel, and lightly prick them with a fork (so spices absorb).",
+            "Heat 1 tsp oil in a pan, add a pinch of turmeric + chili powder, and shallow fry eggs until golden. Set aside.",
+            "Boil 6 cups of water with salt and whole spices (1 bay leaf, 2 cloves, 1 cardamom).",
+            "Add soaked rice and cook till 70% done. Drain and keep aside.",
+            "Heat oil + ghee in a deep pan.",
+            "Add whole spices (remaining cloves, cinnamon, star anise, cardamom).",
+            "Add onions and sauté till golden brown.",
+            "Add ginger-garlic paste + green chilies, fry 2 mins.",
+            "Add tomatoes, cook till mushy.",
+            "Add biryani masala, chili powder, turmeric, coriander powder, and salt.",
+            "Add yogurt, cook 2 mins till oil separates.",
+            "Mix in mint + coriander leaves.",
+            "In the masala, place fried eggs.",
+            "Spread half-cooked rice evenly on top.",
+            "Sprinkle fried onions, mint, coriander, lemon juice, and saffron milk.",
+            "Cover tightly with a lid.",
+            "Cook on low flame for 20 mins (Dum method)."
+        ],
+        "Time Breakdown": [
+            "Preparation: 20 minutes",
+            "Cooking: 40 minutes",
+            "Total: ~1 hour"
+        ],
+        "Serving": [
+            "Serve hot with raita, boiled eggs, or salan.",
+            "This recipe serves 6 people generously."
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Fish Biryani",
+        "image": "../src/assets/biryani/Fish Biryani.jpg",
+        "details": [
+            "Fish fillets – 500g (Seer fish/Kingfish/Salmon or any firm fish)",
+            "Yogurt – ½ cup",
+            "Red chili powder – 1 tsp",
+            "Turmeric powder – ½ tsp",
+            "Coriander powder – 1 tsp",
+            "Garam masala – ½ tsp",
+            "Lemon juice – 1 tbsp",
+            "Ginger-garlic paste – 1 tbsp",
+            "Salt – as needed"
+        ],
+        "rice": [
+            "Basmati rice – 2 cups (soak for 30 mins)",
+            "Whole spices – 2 bay leaves, 4 cloves, 4 green cardamoms, 1-inch cinnamon, 1 star anise",
+            "Salt – 1 tbsp",
+            "Water – 6 cups",
+            "Onion – 3 large (thinly sliced)",
+            "Tomato – 2 medium (chopped)",
+            "Green chilies – 3 (slit)",
+            "Ginger-garlic paste – 1 tbsp",
+            "Yogurt – ½ cup",
+            "Mint leaves – ½ cup (chopped)",
+            "Coriander leaves – ½ cup (chopped)",
+            "Red chili powder – 1 tsp",
+            "Coriander powder – 1 tsp",
+            "Garam masala – 1 tsp",
+            "Oil – 4 tbsp",
+            "Ghee – 2 tbsp"
+        ],
+        "steps": [
+            "Step 1: Marinate the Fish (15 mins)",
+            "Step 2: Cook the Rice (15 mins)",
+            "Step 3: Fry Fish (10 mins)",
+            "Step 4: Prepare Biryani Masala (15 mins)",
+            "Step 5: Layer the Biryani (10 mins)",
+            "Step 6: Dum Cooking (15 mins)"
+        ],
+        "stepDetails": [
+            "Clean fish pieces and pat dry.",
+            "Mix yogurt, spices, lemon juice, ginger-garlic paste, and salt.",
+            "Coat the fish pieces well and let them marinate for 15–30 minutes.",
+            "Boil 6 cups of water with whole spices and salt.",
+            "Add soaked rice and cook until 70% done.",
+            "Drain and keep aside.",
+            "Heat oil in a pan.",
+            "Shallow fry the marinated fish pieces until golden (do not overcook).",
+            "Keep aside on a plate.",
+            "Heat oil + ghee in a wide pan.",
+            "Add onions, fry till golden brown.",
+            "Add ginger-garlic paste & green chilies → sauté.",
+            "Add chopped tomatoes, yogurt, red chili powder, coriander powder, garam masala, mint, and coriander leaves.",
+            "Cook until the masala thickens and oil separates.",
+            "In a heavy-bottomed vessel, spread half of the cooked rice.",
+            "Add the masala, then layer the fried fish pieces.",
+            "Add the remaining rice on top.",
+            "Garnish with fried onions, mint, coriander, and 1 tsp ghee.",
+            "Cover tightly (use foil or dough to seal edges).",
+            "Cook on low flame for 15 minutes.",
+            "Switch off and rest for 10 minutes before serving."
+        ],
+        "Time Breakdown": [
+            "Preparation: 25 minutes (including marination & rice soaking)",
+            "Cooking: 40 minutes",
+            "Total: ~1 hour 5 minutes"
+        ],
+        "Serving": [
+            "Serves: 4 people",
+            "Best served with raita, boiled egg, and papad."
+        ]
+    },
+    {
+        "id": 5,
+        "name": "jackfruit Biryani",
+        "image": "../src/assets/biryani/jackfruit Biryani.jpg",
+        "details": [
+            "2 cups Raw Jackfruit (Kathal) – peeled & cut into medium cubes",
+            "2 tbsp Oil (mustard oil preferred)",
+            "1 Large Onion – thinly sliced",
+            "2 Tomatoes – finely chopped",
+            "1 Green Chili – slit",
+            "1 tbsp Ginger-Garlic paste",
+            "½ cup Yogurt (curd) – whisked",
+            "1 tsp Red Chili Powder",
+            "1 tsp Coriander Powder",
+            "½ tsp Turmeric Powder",
+            "1 tsp Garam Masala",
+            "½ tsp Cumin Seeds",
+            "Salt – to taste",
+            "Fresh Coriander & Mint leaves – chopped"
+        ],
+        "rice": [
+            "2 cups Basmati Rice (soaked for 30 minutes)",
+            "4 cups Water",
+            "1 Bay leaf",
+            "2–3 Cloves",
+            "1 inch Cinnamon stick",
+            "2 Green Cardamoms",
+            "1 tsp Salt",
+            "1 tbsp Ghee",
+            "8–10 Cashews",
+            "1 tbsp Fried Onions (optional)",
+            "Few strands of Saffron soaked in 2 tbsp warm milk (optional)"
+        ],
+        "steps": [
+            "Step 1: Preparing the Rice (15 min)",
+            "Step 2: Preparing the Jackfruit Masala (20 min)",
+            "Step 3: Layering the Biryani (15 min)",
+            "Step 4: Serve"
+        ],
+        "stepDetails": [
+            "Boil 4 cups of water with bay leaf, cloves, cinnamon, cardamom & salt.",
+            "Add soaked rice & cook until 70% done (grains should still be firm).",
+            "Drain the rice & keep aside.",
+            "Heat oil in a pan, and add cumin seeds.",
+            "Add sliced onions & sauté until golden brown.",
+            "Add ginger-garlic paste & cook for 1 min.",
+            "Add tomatoes, chili, turmeric, chili powder, coriander powder & salt. Cook till the masala releases oil.",
+            "Add jackfruit pieces & mix well.",
+            "Stir in yogurt slowly, cook on low flame until jackfruit softens (10–12 min).",
+            "Sprinkle garam masala & add coriander + mint leaves.",
+            "In a heavy-bottomed pot, grease with ghee.",
+            "Spread one layer of jackfruit masala, then a layer of rice.",
+            "Repeat until all rice & masala are used (finish with rice on top).",
+            "Sprinkle saffron milk, fried onions, cashews & ghee on top.",
+            "Cover tightly (use foil or dough to seal lid) & cook on low heat (dum) for 15 minutes."
+        ],
+        "Time Breakdown": [
+            "Servings: 4 people",
+            "Total Time: 1 hour (Prep: 20 min, Cooking: 40 min)"
+        ],
+        "Serving": [
+            "Fluff gently with a fork before serving.",
+            "Serve hot with raita, salad & papad."
+        ]
+    },
+    {
+        "id": 6,
+        "name": "keema Biryani",
+        "image": "../src/assets/biryani/Keema Biryani.jpg",
+        "details": [
+            "500 g Chicken",
+            "2 large Onions (sliced thin)",
+            "2 Tomatoes (chopped)",
+            "2–3 Green chilies (slit)",
+            "1 tbsp Ginger-garlic paste",
+            "½ cup Curd (yogurt) (whisked)",
+            "1 tsp Red chili powder",
+            "1 ½ tsp Coriander powder",
+            "½ tsp Turmeric powder",
+            "1 tsp Garam masala powder",
+            "½ tsp Cumin powder",
+            "½ tsp Black pepper powder",
+            "Salt to taste",
+            "2 tbsp Fresh coriander leaves (chopped)",
+            "2 tbsp Mint leaves (chopped)"
+        ],
+        "rice": [
+            "2 cups Basmati rice (soaked for 30 min)",
+            "1 tsp Shah jeera (caraway seeds)",
+            "2–3 Cloves",
+            "2 Green cardamoms",
+            "1 Bay leaf",
+            "1 small Cinnamon stick",
+            "1 tsp Salt",
+            "5 cups Water",
+            "2 tbsp Fried onions",
+            "Few Mint & coriander leaves",
+            "Saffron strands soaked in 2 tbsp warm milk (optional)"
+        ],
+        "steps": [
+            "Step 1: Prepare the Rice (15 min)",
+            "Step 2: Cook the Keema Masala (20 min)",
+            "Step 3: Layering the Biryani (10–15 min)",
+            "Step 4: Dum Cooking (15–20 min)"
+        ],
+        "stepDetails": [
+            "Boil 5 cups of water with spices (shah jeera, cloves, cardamom, cinnamon, bay leaf, and salt).",
+            "Add soaked rice and cook until 70% done (grains should be slightly firm).",
+            "Drain and keep aside.",
+            "Heat oil/ghee in a pan. Fry onions till golden brown.",
+            "Add ginger-garlic paste, sauté 1 min.",
+            "Add tomatoes, green chilies, and cook till soft.",
+            "Mix in keema (minced meat) and sauté on high flame for 5–7 mins until it changes color.",
+            "Add red chili, coriander, turmeric, cumin, pepper, and salt. Mix well.",
+            "Add yogurt, cook until oil separates.",
+            "Finish with garam masala, mint, and coriander.",
+            "In a heavy-bottomed pan, spread half of the keema masala.",
+            "Add a layer of rice on top.",
+            "Add fried onions, mint, coriander, and saffron milk",
+            "Repeat with the remaining keema masala and rice.",
+            "Cover tightly (seal with dough if possible).",
+            "Place the pan on a low flame, cook for 20 min.",
+            "Alternatively, keep on a tava (griddle) to avoid burning."
+        ],
+        "Time Breakdown": [
+            "Servings: 4–5 people",
+            "Total Time: 1 hour (Prep: 20 min | Cooking: 40 min)"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Coin Parotta ",
+        "image": "../src/assets/parotta/Coin Parotta.jpg",
+        "details": [
+            "For Dough:",
+            "Maida / All-purpose flour – 2 cups (250 g)",
+            "Salt – 1 tsp",
+            "Sugar – 1 tsp",
+            "Oil – 2 tbsp",
+            "Warm water – ¾ cup (adjust as needed)",
+            "Optional: Egg – 1 small ",
+            "For Oil Soak & Rolling:",
+            "Oil – 3 tbsp ",
+            "Maida – 2 tbsp "
+        ],
+        "steps": [
+            "Step 1: Prepare the Dough",
+            "Step 2: Divide & Rest",
+            "Step 3: Stretch & Coil",
+            "Step 4: Roll into Coins"
+        ],
+        "stepDetails": [
+            "In a mixing bowl, add maida, salt, sugar, and oil.",
+            "Add warm water little by little and knead into a soft, smooth dough (8–10 minutes).",
+            "Coat the dough with a little oil, cover, and rest for 20 minutes.",
+            "Divide the dough into 12 equal balls.",
+            "Place the balls in a tray, drizzle 2–3 tbsp oil over them, and coat well",
+            "Cover and let them rest for 45 minutes (this makes them easy to stretch).",
+            "Take one ball, keep the rest covered in oil.",
+            "On a greased surface, stretch it very thin (like a handkerchief).",
+            "Brush a little oil and sprinkle a pinch of dry flour over it.",
+            "Fold into pleats (like a ribbon) and then coil it into a small bun.",
+            "Tuck the end under the coil. Repeat for all balls.",
+            "Take each coiled bun and gently roll into a small thick disc (7–8 cm, coin size).",
+            "Do not press too thin — the layers should remain."
+        ],
+        "cooking": [
+            "Oil or ghee – as needed",
+            "Heat a tawa on medium flame.",
+            "Place one coin parotta, cook for 1–1½ minutes on one side until light brown spots appear.",
+            "Flip, drizzle oil/ghee around the edges, cook another 1–1½ minutes.",
+            "Flip again for 20–30 seconds if needed.",
+            "Remove and clap gently between palms (or crush the sides with tongs) to open the flaky layers."
+        ],
+        "Time Breakdown": [
+            "Servings: 4–5 people",
+            "Total Time: 1 hour (Prep: 20 min | Cooking: 40 min)"
+        ],
+        "Serving": [
+            "Best served with Chicken Salna, Veg Kurma, Paneer Butter Masala, or Mutton Curry.",
+            "Also goes great with just pickle + raita for a simple combo."
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Veechu Parotta",
+        "image": "../src/assets/parotta/Veechu Parotta.jpg",
+        "details": [
+            "For Dough:",
+            "Maida / All-purpose flour – 2 cups (250 g)",
+            "Salt – 1 tsp",
+            "Sugar – 1 tsp",
+            "Oil – 2 tbsp",
+            "Warm water – ¾ cup (adjust as needed)",
+            "Optional: Egg – 1 small ",
+            "For Oil Soak & Rolling:",
+            "Oil – 3 tbsp ",
+            "Maida – 2 tbsp "
+        ],
+        "steps": [
+            "Step 1: Prepare the Dough",
+            "Step 2: Divide & Rest",
+            "Step 3: Stretch Dough ",
+            "Step 4: Fold into Veechu Shape"
+        ],
+        "stepDetails": [
+            "In a mixing bowl, combine maida, salt, sugar, and oil.",
+            "Gradually add warm water and knead into a soft, smooth dough (8–10 minutes).",
+            "Coat the dough with oil, cover, and rest for 20 minutes. ",
+            "Divide dough into 8–10 equal balls.",
+            "Place balls in a tray, pour 2–3 tbsp oil over them, and coat well.",
+            "Cover and rest for 45 minutes to 1 hour (this makes the dough elastic and easy to stretch).",
+            "Grease your hands and work on a lightly oiled surface.",
+            "Take one ball (keep the rest covered in oil).",
+            "Stretch it into a large thin sheet – almost transparent ",
+            "Sprinkle a little oil or dry flour on the stretched sheet.",
+            "Fold the sides into a square shape (like folding a letter/envelope).",
+            "Press gently to hold the layers together."
+        ],
+        "Cooking": [
+            "Oil or ghee – as needed",
+            "Heat a tawa on medium flame.",
+            "Place the folded veechu parotta, cook for 1–1½ minutes on one side until light brown.",
+            "Flip, drizzle oil/ghee around the edges, cook another 1–1½ minutes.",
+            "Flip again for 20–30 seconds if needed.",
+            "Remove when golden spots appear"
+        ],
+        "Time Breakdown": [
+            "Kneading: 10 min",
+            "First rest: 20 min",
+            "Oil soak: 45–60 min",
+            "Stretching & folding: 15 min",
+            "Cooking: 20–25 min"
+        ],
+        "Serving": [
+            "Traditionally served with Salna (street-style curry), chicken/mutton kurma, or egg curry.",
+            "Also pairs well with spicy chutney or just pickle + curd."
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Romali Parotta",
+        "image": "../src/assets/parotta/Romali Parotta.jpg",
+        "details": [
+            "For Dough:",
+            "Maida / All-purpose flour – 2 cups (250 g)",
+            "Salt – 1 tsp",
+            "Sugar – 1 tsp",
+            "Oil – 2 tbsp",
+            "Warm water – ¾ cup (adjust as needed)",
+            "Optional: Egg – 1 small ",
+            "For Rolling & Cooking:",
+            "Oil – 3 tbsp ",
+            "Maida – 2 tbsp "
+        ],
+        "cooking": [
+            "Oil or ghee – as needed",
+            "Heat a tawa on medium flame.",
+            "Place one coin parotta, cook for 1–1½ minutes on one side until light brown spots appear.",
+            "Flip, drizzle oil/ghee around the edges, cook another 1–1½ minutes.",
+            "Flip again for 20–30 seconds if needed.",
+            "Remove and clap gently between palms (or crush the sides with tongs) to open the flaky layers."
+        ],
+        "steps": [
+            "Step 1: Prepare the Dough (10 min + 20 min rest)",
+            "Step 2: Divide & Rest (5 min + 45–60 min)",
+            "Step 3: Stretch the Dough (10 min)",
+            "Step 4: Cook the Roti (15–20 min)"
+        ],
+        "stepDetails": [
+            "Mix maida, salt, sugar, and oil in a bowl.",
+            "Gradually add warm water, kneading for 8–10 minutes until soft and smooth.",
+            "Coat the dough lightly with oil, cover, and let it rest 20 minutes.",
+            "Divide the dough into 8–10 equal balls.",
+            "Coat each ball with oil, place it in a tray, and cover.",
+            "Let rest 45–60 minutes for elasticity.",
+            "Lightly grease hands and rolling surface.",
+            "Take one ball, roll/stretch it into a thin, large circle or oval.",
+            "Dust with flour if it sticks."
+        ],
+        "Time Breakdown": [
+            "Kneading: 10 min",
+            "Resting Dough: 20 min",
+            "Dividing & Soaking: 45–60 min",
+            "Stretching & Rolling: 10–15 min",
+            "Cooking: 15–20 min",
+            "Total: ~2 hours"
+        ],
+        "Cooking": [
+            "Kneading: 10 min",
+            "First rest: 20 min",
+            "Oil soak rest: 45 min",
+            "Shaping & rolling: 15 min",
+            "Cooking: 25–30 min (for 12 parottas)"
+        ],
+        "Serving": [
+            "Serve hot with curries, kebabs, biryani, or tandoori dishes",
+            "Can also be used as a wrap/roll with vegetables or meats."
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Nool Parotta ",
+        "image": "../src/assets/parotta/Nool Parotta.jpg",
+        "details": [
+            "For Dough:",
+            "Maida / All-purpose flour – 2 cups (250 g)",
+            "Salt – 1 tsp",
+            "Sugar – 1 tsp",
+            "Oil – 2 tbsp",
+            "Water – ¾ cup (as needed)",
+            "Rice flour – 2 tbsp (for dusting & layering)",
+            "For Rolling & Cooking:",
+            "Oil or ghee – as needed"
+        ],
+        "steps": [
+            "Step 1: Prepare the Dough ",
+            "Step 2: Roll & Layer ",
+            "Step 3: Shape the Parotta"
+        ],
+        "stepDetails": [
+            "Mix maida, salt, sugar, and oil in a bowl.",
+            "Add water little by little and knead into a soft, smooth dough (8–10 minutes).",
+            "Add 1 tbsp oil and knead again.",
+            "Coat with oil, cover, and rest for 30 minutes.",
+            "Divide the dough into equal lemon-sized balls.",
+            "Roll out each ball into a very thin sheet (as thin as possible).",
+            "Brush lightly with oil and dust with rice flour.",
+            "Cut the sheet into long thin strips using a knife/pizza cutter.",
+            "Gather strips loosely and roll into a spiral bun (like a coil).",
+            "Rest spirals for 15 minutes (covered).",
+            "Take one spiral, flatten gently with a rolling pin.",
+            "Roll into a medium-thick round parotta (do not press too hard, to keep strings visible)."
+        ],
+        "cooking": [
+            "Oil or ghee – as needed",
+            "Heat a tawa on medium flame.",
+            "Place one coin parotta, cook for 1–1½ minutes on one side until light brown spots appear.",
+            "Flip, drizzle oil/ghee around the edges, cook another 1–1½ minutes.",
+            "Flip again for 20–30 seconds if needed.",
+            "Remove and clap gently between palms (or crush the sides with tongs) to open the flaky layers."
+        ],
+        "Time Breakdown": [
+            "Kneading: 10 min",
+            "Resting Dough: 20 min",
+            "Dividing & Soaking: 45–60 min",
+            "Stretching & Rolling: 10–15 min",
+            "Cooking: 15–20 min",
+            "Total: ~2 hours"
+        ],
+        "Serving": [
+            "Serve hot with curries, kebabs, biryani, or tandoori dishes",
+            "Can also be used as a wrap/roll with vegetables or meats."
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Kizhi Parotta",
+        "image": "../src/assets/parotta/Kizhi Parotta.jpg",
+        "details": [
+            "For Base:",
+            "Parotta – 3 to 4 (store-bought or homemade)",
+            "Oil – 2 tbsp",
+            "Banana leaf – 1 large piece ",
+            "For Masala Curry Filling:",
+            "Chicken / Mutton curry (Salna) – 1 ½ cups",
+            "Onion – 1 large (sliced)",
+            "Tomato – 1 (chopped)",
+            "Green chilies – 2 (slit)",
+            "Ginger garlic paste – 1 tbsp",
+            "Red chili powder – 1 tsp",
+            "Coriander powder – 1 tsp",
+            "Turmeric – ¼ tsp",
+            "Garam masala – ½ tsp",
+            "Coriander leaves – 2 tbsp (chopped)",
+            "Curry leaves – few",
+            "Salt – as required",
+            "Egg – 1 or 2 (omelette / half-boiled",
+            "Fried chicken pieces / mutton chukka – few"
+        ],
+        "steps": [
+            "Step 1: Prepare the Masala Curry ",
+            "Step 2: Assemble the Kizhi",
+            "Step 3: Steam the Kizhi Parotta"
+        ],
+        "stepDetails": [
+            "Heat 2 tbsp oil in a kadai.",
+            "Add onion, green chilies, curry leaves – sauté till golden.",
+            "Add ginger garlic paste – cook till raw smell disappears.",
+            "Add tomato and cook till mushy.",
+            "Add chili powder, turmeric, coriander powder, garam masala, and salt – mix well.",
+            "Pour in chicken/mutton curry (salna) and simmer for 10 minutes till thick.",
+            "Finish with chopped coriander leaves.",
+            "Place banana leaf (softened over flame) on a flat surface.",
+            "Place 1 parotta, spread little curry over it.",
+            "Add another parotta, then more curry, repeat layering.",
+            "Add optional egg or fried meat pieces on top.",
+            "Pour extra curry over the top.",
+            "Wrap the banana leaf tightly into a parcel (like a kizhi/pocket).",
+            "Tie with cotton string if needed.",
+            "Place wrapped banana leaf parcels in an idli steamer / pressure cooker (without whistle).",
+            "Steam for 10–12 minutes until flavors infuse.",
+            "Remove carefully, unwrap, and serve hot."
+        ],
+        "cooking": [
+            "Preparing masala curry – 20 min",
+            "Assembling parotta layers – 10 min",
+            "Steaming – 12 min"
+        ],
+        "Time Breakdown": [
+            "Total Time: ~45 minutes"
+        ],
+        "Serving": [
+            "Traditionally served with raita, onion slices, or extra salna.",
+            "The steamed banana leaf gives a unique aroma and taste."
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Chicken Kothu Parotta ",
+        "image": "../src/assets/parotta/Chicken Kothu Parotta.jpg",
+        "details": [
+            "For Base:",
+            "Parotta – 4 to 5 (torn into small pieces)",
+            "Oil – 2 tbsp",
+            "Eggs – 2 (optional, adds richness) ",
+            "Curry leaves – few",
+            "For Chicken Masala:",
+            "Chicken (boneless, small pieces) – 200 g",
+            "Onion – 2 medium (finely chopped)",
+            "Tomato – 2 medium (finely chopped)",
+            "Tomato – 2 medium (finely chopped)",
+            "garlic paste – 1 tbsp",
+            "Red chili powder – 1 tsp",
+            "Turmeric powder – ¼ tsp",
+            "Coriander powder – 1 tsp",
+            "Garam masala – ½ tsp",
+            "Salt – as needed",
+            "Coriander leaves – 2 tbsp (chopped)",
+            "Salna / Chicken curry – ½ cup (for authentic flavor)"
+        ],
+        "steps": [
+            "Step 1: Cook the Chicken Masala ",
+            "Step 2: Scramble Eggs",
+            "Step 3: Mix in Parotta"
+        ],
+        "stepDetails": [
+            "Heat 2 tbsp oil in a kadai.",
+            "Add onion, green chilies, curry leaves – sauté till golden.",
+            "Add ginger garlic paste – cook till raw smell disappears.",
+            "Add tomato and cook till mushy.",
+            "Add chili powder, turmeric, coriander powder, garam masala, and salt – mix well.",
+            "Cook for 10 minutes until chicken is soft.",
+            "Add ½ cup salna/chicken curry for moisture (or little water).",
+            "Push chicken masala to one side of the pan.",
+            "Add 2 beaten eggs, scramble them, and mix into the masala.",
+            "Add torn parotta pieces into the chicken masala.",
+            "Pour in some more salna/chicken curry (½ cup) to soften parotta.",
+            "Using two spatulas, cut and toss continuously (like street vendors do) until parotta absorbs masala.",
+            "Cook for 5–7 minutes on medium flame until parotta becomes soft and coated well."
+        ],
+        "cooking": [
+            "Preparing chicken masala – 15 min",
+            "Cooking chicken – 10 min",
+            "Scrambling eggs – 3 min",
+            "Mixing parotta & masala – 7 min"
+        ],
+        "Time Breakdown": [
+            "Total Time: ~35 minutes"
+        ],
+        "Serving": [
+            "Sprinkle coriander leaves.",
+            "Serve hot with onion raita or extra salna on the side."
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Kadai Semi-gravy",
+        "image": "../src/assets/Semi-gravy/Kadai Semi-gravy.jpg",
+        "details": [
+            "For Kadai Masala (fresh ground spice):",
+            "Coriander seeds – 2 tbsp",
+            "Dry red chilies – 4",
+            "Black pepper – ½ tsp",
+            "Cumin seeds – 1 tsp",
+            "Fennel seeds – ½ tsp",
+            "For the Chicken Masala:",
+            "Chicken (with bone) – 500 g",
+            "Onion – 2 large (sliced thin)",
+            "Tomato – 3 medium (pureed)",
+            "Capsicum – 1 large (diced into cubes)",
+            "Ginger garlic paste – 1 tbsp",
+            "Green chilies – 2 (slit)",
+            "Red chili powder – 1 tsp",
+            "Turmeric powder – ½ tsp",
+            "Garam masala – ½ tsp",
+            "Fresh cream – 2 tbsp (optional, for richness)",
+            "Fresh coriander leaves – 2 tbsp (chopped)",
+            "Oil – 3 tbsp",
+            "Salt – as required",
+            "Water – 1 cup"
+        ],
+        "steps": [
+            "Step 1: Cook the Chicken Masala ",
+            "Step 2: Scramble Eggs",
+            "Step 3: Mix in Parotta"
+        ],
+        "stepDetails": [
+            "Heat 2 tbsp oil in a kadai.",
+            "Add onion, green chilies, curry leaves – sauté till golden.",
+            "Add ginger garlic paste – cook till raw smell disappears.",
+            "Add tomato and cook till mushy.",
+            "Add chili powder, turmeric, coriander powder, garam masala, and salt – mix well.",
+            "Cook for 10 minutes until chicken is soft.",
+            "Add ½ cup salna/chicken curry for moisture (or little water).",
+            "Push chicken masala to one side of the pan.",
+            "Add 2 beaten eggs, scramble them, and mix into the masala.",
+            "Add torn parotta pieces into the chicken masala.",
+            "Pour in some more salna/chicken curry (½ cup) to soften parotta.",
+            "Using two spatulas, cut and toss continuously (like street vendors do) until parotta absorbs masala.",
+            "Cook for 5–7 minutes on medium flame until parotta becomes soft and coated well."
+        ],
+        "cooking": [
+            "Preparing chicken masala – 15 min",
+            "Cooking chicken – 10 min",
+            "Scrambling eggs – 3 min",
+            "Mixing parotta & masala – 7 min"
+        ],
+        "Time Breakdown": [
+            "Total Time: ~35 minutes"
+        ],
+        "Serving": [
+            "Sprinkle coriander leaves.",
+            "Serve hot with onion raita or extra salna on the side."
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Mutton Sukka Semi-Gravy",
+        "image": "../src/assets/Semi-gravy/Mutton Sukka Semi-Gravy.jpg",
+        "details": [
+            "Mutton (goat meat, with bone) – 500 g",
+            "Onion – 2 large (sliced thin)",
+            "Tomato – 2 medium (finely chopped)",
+            "Green chilies – 2 (slit)",
+            "Ginger garlic paste – 1½ tbsp",
+            "Red chili powder – 1½ tsp",
+            "Coriander powder – 1 tbsp",
+            "Turmeric powder – ½ tsp",
+            "Black pepper powder – ½ tsp",
+            "Garam masala – ½ tsp",
+            "Curry leaves – 2 sprigs",
+            "Fresh coconut (grated) – 2 tbsp (lightly roasted & ground, optional)",
+            "Fresh coriander leaves – 2 tbsp (chopped)",
+            "Oil – 4 tbsp",
+            "Salt – as required",
+            "Water – 1 to 1½ cups (for pressure cooking)"
+        ],
+        "steps": [
+            "Step 1:  Pressure Cook Mutton (20–25 mins)",
+            "Step 2:  Fry Onion Base (7 mins)",
+            "Step 3:  Add Tomatoes & Spices (8 mins)",
+            "Step 4:  Add Cooked Mutton & Reduce (12 mins)",
+            "Step 5:  Finish with Flavor (5 mins)",
+            "Step 6:  Garnish & Serve (2 mins)"
+        ],
+        "stepDetails": [
+            "Wash mutton and add to pressure cooker.",
+            "Add ½ tsp turmeric, salt, and 1 cup water",
+            "Pressure cook for 6–7 whistles or until soft (20–25 minutes).",
+            "Heat oil in a kadai.",
+            "Add onions + curry leaves → sauté till golden brown (6 minutes).",
+            "Add ginger-garlic paste + green chilies → fry till raw smell goes (1 minute).",
+            "Add chopped tomatoes + salt → cook till mushy (5 minutes).",
+            "Add red chili powder, coriander powder → fry masala well (3 minutes).",
+            "Add the cooked mutton with stock into masala.",
+            "Mix well and simmer until gravy thickens and coats the meat (10–12 minutes).",
+            "Add pepper powder + garam masala → stir well (2 minutes).",
+            "Optionally, add roasted coconut paste for extra flavor (2–3 minutes)."
+        ],
+        "Time Breakdown": [
+            "Total Cooking Time: ~55 minutes"
+        ],
+        "Serving": [
+            "Sprinkle fresh coriander leaves.",
+            "Switch off and rest for a minute."
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Prawn Masala Semi-Gravy",
+        "image": "../src/assets/Semi-gravy/PrawnMasala Semi-Gravy.jpg",
+        "details": [
+            "Prawns – 500 g (cleaned & deveined)",
+            "Onion – 2 medium (finely sliced)",
+            "Tomato – 2 medium (finely chopped or pureed)",
+            "Green chilies – 2 (slit)",
+            "Ginger garlic paste – 1 tbsp",
+            "Ginger garlic paste – 1 tbsp",
+            "Curry leaves – 1 sprig",
+            "Red chili powder – 1 tsp",
+            "Coriander powder – 1 tbsp",
+            "Turmeric powder – ½ tsp",
+            "Black pepper powder – ½ tsp",
+            "Garam masala – ½ tsp",
+            "Fresh coconut paste – 2 tbsp",
+            "Fresh coriander leaves – 2 tbsp (chopped)",
+            "Oil – 3 tbsp",
+            "Salt – as needed",
+            "Water – ½ cup"
+        ],
+        "steps": [
+            "Step 1:   Clean & Marinate Prawns (10 mins)",
+            "Step 2:   Fry Onion Base (6 mins)",
+            "Step 3:   Cook Tomatoes & Masala (7 mins)",
+            "Step 4:   Add Prawns & Cook (6–7 mins)",
+            "Step 5:   Finish with Flavor (3 mins)"
+        ],
+        "stepDetails": [
+            "Wash prawns well and drain.",
+            "Marinate with ½ tsp turmeric + ½ tsp chili powder + salt.",
+            "Rest for 10 minutes.",
+            "Heat oil in a kadai.",
+            "Add onions + curry leaves → sauté until golden (5 minutes).",
+            "Add ginger garlic paste + green chilies → fry until raw smell leaves (1 minute).",
+            "Add chopped tomatoes + salt → cook until mushy (5 minutes).",
+            "Add red chili powder, coriander powder, turmeric → sauté well (2 minutes).",
+            "Add marinated prawns → mix with masala (1 minute).",
+            "Add ½ cup water → cook on medium flame until prawns turn pink & soft (5–6 minutes).",
+            "Do not overcook, prawns turn rubbery.",
+            "Add pepper powder + garam masala → stir well (2 minutes).",
+            ""
+        ],
+        "Time Breakdown": [
+            "⏰ Total Cooking Time: ~35 minutes"
+        ],
+        "Serving": [
+            "Sprinkle fresh coriander leaves.",
+            "Rest for a minute before serving."
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Fish Fry Masala Semi-Gravy ",
+        "image": "../src/assets/Semi-gravy/Fish Fry Masala Semi-Gravy.jpg",
+        "details": [
+            "Fish slices – 500 g (Seer fish/King fish/Pomfret works best)",
+            "Red chili powder – 1 tsp",
+            "Turmeric powder – ¼ tsp",
+            "Lemon juice – 1 tsp",
+            "Salt – as needed",
+            "Oil – 3 tbsp (for shallow frying)",
+            "Onion – 2 medium (finely sliced)",
+            "Tomato – 2 medium (finely chopped/pureed)",
+            "Green chilies – 2 (slit)",
+            "Ginger garlic paste – 1 tbsp",
+            "Curry leaves – 1 sprig",
+            "Red chili powder – 1 tsp",
+            "Coriander powder – 1 tbsp",
+            "Turmeric powder – ½ tsp",
+            "Black pepper powder – ½ tsp",
+            "Garam masala – ½ tsp",
+            "Garam masala – ½ tsp",
+            "Fresh coriander leaves – 2 tbsp (chopped)",
+            "Oil – 3 tbsp",
+            "Salt – as required",
+            "Water – ½ cup"
+        ],
+        "steps": [
+            "Step 1: Marinate & Fry Fish (20 mins) ",
+            "Step 2: Prepare Onion Base (7 mins)",
+            "Step 3: Cook Tomatoes & Spices (8 mins)",
+            "Step 4:  Add Water & Thicken Masala (6 mins)",
+            "Step 5: Add Fish & Finish (5 mins)"
+        ],
+        "stepDetails": [
+            "Clean fish pieces and marinate with red chili powder, turmeric, lemon juice, salt → rest 15 minutes.",
+            "Heat oil → shallow fry fish till golden on both sides (5 minutes per side).Set aside.",
+            "In another kadai, heat oil.",
+            "Add onions + curry leaves → sauté until golden (6 minutes).",
+            "Add ginger garlic paste + green chilies → fry till raw smell goes (1 minute).",
+            "Add tomatoes + salt → cook till mushy (5 minutes).",
+            "Add red chili powder, coriander powder, turmeric → fry well (3 minutes).",
+            "Add ½ cup water → cook till masala thickens and oil starts separating (6 minutes).",
+            "Gently place fried fish into the masala → coat well (3 minutes).",
+            "Add pepper powder + garam masala → mix carefully without breaking fish (2 minutes)."
+        ],
+        "Time Breakdown": [
+            "Total Cooking Time: ~48 minutes"
+        ],
+        "Serving": [
+            "Sprinkle coriander leaves.",
+            "Rest for a minute to let flavors settle."
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Crab Masala Semi-Gravy",
+        "image": "../src/assets/Semi-gravy/Crab Masala Semi-Gravy.jpg",
+        "details": [
+            "Crab – 500 g (cleaned and cut into pieces)",
+            "Onion – 2 medium (finely sliced)",
+            "Tomato – 2 medium (finely chopped/pureed)",
+            "Green chilies – 2 (slit)",
+            "Ginger garlic paste – 1 tbsp",
+            "Curry leaves – 1 sprig",
+            "Red chili powder – 1½ tsp",
+            "Coriander powder – 1 tbsp",
+            "Turmeric powder – ½ tsp",
+            "Black pepper powder – ½ tsp",
+            "Garam masala – ½ tsp",
+            "Fresh coconut paste – 2 tbsp (optional, for richness)",
+            "Fresh coriander leaves – 2 tbsp (chopped)",
+            "Oil – 4 tbsp",
+            "Salt – as needed",
+            "Water – ½–1 cup"
+        ],
+        "steps": [
+            "Step 1:  Clean & Marinate Crab (10 mins) ",
+            "Step 2:  Fry Onion Base (7 mins)",
+            "Step 3:  Cook Tomatoes & Spices (8 mins)",
+            "Step 4:  Add Crab & Cook (12–15 mins)",
+            "Step 5:  Finish & Flavor (4 mins)"
+        ],
+        "stepDetails": [
+            "Wash crabs and cut into pieces.",
+            "Marinate with ½ tsp turmeric + ½ tsp chili powder + salt → rest for 10 minutes.",
+            "Add onions + curry leaves → sauté until golden brown (6 minutes).",
+            "Add ginger garlic paste + green chilies → fry until raw smell goes (1 minute).",
+            "Add tomatoes + salt → cook until mushy (5 minutes).",
+            "Add red chili powder, coriander powder, turmeric → sauté well (3 minutes).",
+            "Add marinated crab pieces → mix gently with masala (2 minutes).",
+            "Add ½–1 cup water → cover and simmer on medium flame until crab is cooked and masala reduces to semi-thick consistency (10–13 minutes).",
+            "Add pepper powder + garam masala → stir gently (2 minutes).",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "Time Breakdown": [
+            "Total Cooking Time: ~45–50 minutes"
+        ],
+        "Serving": [
+            "Sprinkle fresh coriander leaves.",
+            "Rest for 1 minute before serving."
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Squid Masala Semi-Gravy",
+        "image": "../src/assets/Semi-gravy/Squid Masala Semi-Gravy.jpg ",
+        "details": [
+            "Squid (Kanava/Calamari) – 500 g ",
+            "Onion – 2 medium (finely sliced)",
+            "Tomato – 2 medium (finely chopped/pureed)",
+            "Green chilies – 2 (slit)",
+            "Ginger garlic paste – 1 tbsp",
+            "Curry leaves – 1 sprig",
+            "Red chili powder – 1 tsp",
+            "Coriander powder – 1 tbsp",
+            "Turmeric powder – ½ tsp",
+            "Black pepper powder – 1 tsp (freshly ground for best flavor)",
+            "Garam masala – ½ tsp",
+            "Fresh coconut paste – 2 tbsp (optional, for richness)",
+            "Fresh coriander leaves – 2 tbsp (chopped)",
+            "Oil – 3 tbsp",
+            "Salt – as required",
+            "Water – ½ cup"
+        ],
+        "steps": [
+            "Step 1:  Clean & Marinate Squid (5–7 mins)",
+            "Step 2:  Fry Onion Base (6 mins)",
+            "Step 3:  Cook Tomatoes & Spices (7 mins)",
+            "Step 4:  Add Squid & Cook Semi-Gravy (6–7 mins)",
+            "Step 5:  Finish with Pepper & Masala (3 mins)"
+        ],
+        "stepDetails": [
+            "Wash squid rings thoroughly and drain.",
+            "Marinate with ½ tsp turmeric + ½ tsp chili powder + salt → rest for 5–7 minutes.",
+            "Heat oil in a kadai.",
+            "Add onions + curry leaves → sauté until golden (5 minutes).",
+            "Add ginger garlic paste + green chilies → fry until raw smell disappears (1 minute).",
+            "Add tomatoes + salt → cook till mushy (5 minutes).",
+            "Add red chili powder, coriander powder, turmeric → sauté well (2 minutes).",
+            "Add marinated squid rings → mix gently with masala (1 minute).",
+            "Add ½ cup water → cook on medium flame until squid turns tender but not rubbery and masala thickens slightly (5–6 minutes).",
+            "Add black pepper powder + garam masala → mix gently (2 minutes).",
+            "Optional: add coconut paste → cook 1 minute for extra richness."
+        ],
+        "Time Breakdown": [
+            "Total Cooking Time: ~30–32 minutes"
+        ],
+        "Serving": [
+            "Sprinkle fresh coriander leaves.",
+            "Let rest for a minute before serving."
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Paneer Fry fry-items",
+        "image": "../src/assets/fry-items/paneer fry-items.jpg",
+        "details": [
+            "Paneer – 250 g (cubed)",
+            "Ginger garlic paste – 1 tsp",
+            "Red chili powder – 1 tsp",
+            "Turmeric powder – ¼ tsp",
+            "Garam masala – ½ tsp",
+            "Corn flour – 1 tbsp",
+            "All-purpose flour – 1 tbsp",
+            "Salt – as needed",
+            "Oil – for shallow/deep frying",
+            "Lemon juice – 1 tsp",
+            "Fresh coriander leaves – 1 tbsp (chopped, for garnish)"
+        ],
+        "steps": [
+            "Step 1:  Marinate Paneer (10 mins)",
+            "Step 2:  Heat Oil (3 mins)",
+            "Step 3:  Fry Paneer (6–8 mins)"
+        ],
+        "stepDetails": [
+            "In a bowl, mix paneer cubes + ginger garlic paste + red chili powder + turmeric + garam masala + corn flour + all-purpose flour + salt + lemon juice.",
+            "Coat paneer evenly and rest for 10 minutes.",
+            "Heat oil in a frying pan or kadai for shallow or deep frying.",
+            "Add marinated paneer cubes carefully to hot oil.",
+            "Fry until golden brown and crispy on all sides (3–4 minutes per batch).",
+            "Remove and drain excess oil on paper towels."
+        ],
+        "Time Breakdown": [
+            "Total Cooking Time: ~20–23 minutes"
+        ],
+        "Serving": [
+            "Sprinkle fresh coriander leaves and serve hot."
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Gobi 65 fry-items ",
+        "image": "../src/assets/fry-items/Gobi 65 fry-items.jpg",
+        "details": [
+            "Wash cauliflower florets thoroughly.",
+            "Boil water in a pan, add florets with ½ tsp salt, blanch for 2–3 minutes.",
+            "In a bowl, mix cauliflower florets + ginger garlic paste + red chili powder + turmeric + coriander powder + garam masala + corn flour + all-purpose flour + rice flour + salt + lemon juice.",
+            "Coat evenly and rest for 10 minutes.",
+            "Heat oil in a deep frying pan or kadai until hot.",
+            "Add marinated florets carefully into hot oil.",
+            "Fry in batches until golden brown and crispy (4–5 minutes per batch).",
+            "Remove and drain excess oil on paper towels."
+        ],
+        "steps": [
+            "Step 1:  Blanch Cauliflower (5 mins)",
+            "Step 2:  Marinate Cauliflower (10 mins)",
+            "Step 3:  Heat Oil (3–4 mins)",
+            "step 4:  Deep Fry Cauliflower (8–10 mins)"
+        ],
+        "stepDetails": [
+            "Cauliflower – 1 medium head (cut into florets)",
+            "Ginger garlic paste – 1 tsp",
+            "Red chili powder – 1½ tsp",
+            "Turmeric powder – ½ tsp",
+            "Coriander powder – 1 tsp",
+            "Garam masala – ½ tsp",
+            "Corn flour – 2 tbsp",
+            "All-purpose flour – 2 tbsp",
+            "Rice flour – 1 tbsp (for extra crispiness)",
+            "Salt – as needed",
+            "Lemon juice – 1 tsp",
+            "Curry leaves – 1 sprig (for garnish)",
+            "Oil – for deep frying"
+        ],
+        "Time Breakdown": [
+            "Total Cooking Time: ~28–31 minutes"
+        ],
+        "Serving": [
+            "Toss fried cauliflower with fresh curry leaves.",
+            "Serve hot as a starter or side dish."
+        ]
+    },
+    {
+        "id": 21,
+        "name": "French Fries fry-items ",
+        "image": "../src/assets/fry-items/French Fries fry-items.jpg",
+        "details": [
+            "Potatoes – 3 large (peeled and cut into thin sticks)",
+            "Salt – as needed",
+            "Black pepper – ½ tsp (optional)",
+            "Red chili powder – ¼ tsp (optional, for spice)",
+            "Cornstarch – 1 tsp (optional, for extra crispiness)",
+            "Oil – for deep frying"
+        ],
+        "steps": [
+            "Step 1:  Soak Potatoes (15 mins)",
+            "Step 2:  Parboil / Blanch (Optional, 5 mins)",
+            "Step 3:  Heat Oil (3–4 mins)",
+            "Step 4:  First Fry (5–6 mins)",
+            "Step 5:  Second Fry (Crisping) (3–4 mins)"
+        ],
+        "stepDetails": [
+            "After cutting potatoes into sticks, soak them in cold water for 15 minutes.",
+            "This removes excess starch and prevents sticking.",
+            "Boil water in a pan.",
+            "Blanch potato sticks for 2–3 minutes → drain and pat dry with a kitchen towel.",
+            "Heat oil in a deep frying pan or kadai on medium-high flame until hot (around 180°C / 350°F).",
+            "Fry potato sticks in batches until light golden (3–4 minutes per batch).",
+            "Remove and drain on paper towels.",
+            "Increase oil temperature slightly.",
+            "Fry potato sticks again until golden brown and crispy (2–3 minutes per batch).",
+            "Remove and drain excess oil."
+        ],
+        "Time Breakdown": [
+            "Total Cooking Time: ~33–36 minutes"
+        ],
+        "Serving": [
+            "Sprinkle salt + black pepper + red chili powder (optional).",
+            "Serve immediately with ketchup or mayonnaise."
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Honey Chilli Potato Fry-items ",
+        "image": "../src/assets/fry-items/Honey Chilli Potato fry-items.jpg",
+        "details": [
+            "Potatoes – 3 large (peeled and cut into thin sticks)",
+            "Cornstarch – 2 tbsp (for coating)",
+            "All-purpose flour – 1 tbsp (optional)",
+            "Salt – as needed",
+            "Oil – for deep frying",
+            "Garlic – 3 cloves (finely chopped)",
+            "Green chilies – 2–3 (slit)",
+            "Spring onions – 2 (chopped, for garnish)",
+            "Honey – 2 tbsp",
+            "Soy sauce – 1 tbsp",
+            "Tomato ketchup – 1 tbsp",
+            "Red chili sauce – 1 tsp (adjust to taste)"
+        ],
+        "steps": [
+            "Step 1:   Soak & Dry Potatoes (15 mins)",
+            "Step 2:   Coat Potatoes (2–3 mins)",
+            "Step 3:   Deep Fry Potatoes (8–10 mins",
+            "Step 4:   Prepare Sauce (3–4 mins)",
+            "Step 5:   Toss Potatoes in Sauce (2 mins)"
+        ],
+        "stepDetails": [
+            "Cut potatoes into thin stick",
+            "Soak in cold water for 15 minutes to remove starch.",
+            "Drain and pat dry completely.",
+            "In a bowl, mix cornstarch + all-purpose flour + salt.",
+            "Toss potato sticks in the mixture until evenly coated.",
+            "Heat oil in a deep frying pan until hot.",
+            "Fry coated potatoes in batches until golden and crispy (4–5 minutes per batch).",
+            "Remove and drain on paper towels",
+            "Heat 1–2 tsp oil in a pan.",
+            "Add chopped garlic + slit green chilies → sauté 30 seconds.",
+            "Add soy sauce + tomato ketchup + red chili sauce + honey → mix well and simmer for 1–2 minutes.",
+            "Add fried potatoes to the sauce → toss gently until well coated."
+        ],
+        "Time Breakdown": [
+            "Total Cooking Time: ~30–34 minutes"
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Seer Fish fry-items ",
+        "image": "../src/assets/fry-items/Seer Fish fry-items.jpg",
+        "details": [
+            "Seer fish (Surmai/Kingfish) – 500 g (cut into steaks or pieces)",
+            "Ginger garlic paste – 1 tbsp",
+            "Red chili powder – 1½ tsp",
+            "Turmeric powder – ½ tsp",
+            "Coriander powder – 1 tsp",
+            "Black pepper powder – ½ tsp",
+            "Lemon juice – 1 tsp",
+            "Salt – as needed",
+            "Rice flour – 2 tbsp (for coating, optional)",
+            "Oil – for shallow/deep frying",
+            "Curry leaves – 1 sprig (optional, for garnish)"
+        ],
+        "steps": [
+            "Step 1:  Marinate Fish (15 mins)",
+            "Step 2:  Heat Oil (3–4 mins)",
+            "Step 3:  Fry Fish (8–10 mins)"
+        ],
+        "stepDetails": [
+            "Clean fish pieces thoroughly.",
+            "Marinate with ginger garlic paste, red chili powder, turmeric, coriander powder, black pepper powder, lemon juice, salt, and rice flour.",
+            "Rest for 15 minutes.",
+            "Heat oil in a frying pan or kadai for shallow or deep frying.",
+            "Carefully add marinated fish pieces to hot oil.",
+            "Fry until golden brown and cooked through, flipping once (4–5 minutes per side).",
+            "Remove and drain excess oil on paper towels."
+        ],
+        "Time Breakdown": [
+            "Total Cooking Time: ~28–31 minutes"
+        ],
+        "Serving": [
+            "Garnish with curry leaves (optional)."
+        ]
+    },
+    {
+        "id": 24,
+        "name": "Nethili Fish fry-items ",
+        "image": "../src/assets/fry-items/Nethili Fish fry-items.jpg",
+        "details": [
+            "Nethili fish (anchovies) – 250 g (cleaned, head removed)",
+            "Ginger-garlic paste – 1 tbsp",
+            "Red chilli powder – 1½ tsp",
+            "Turmeric powder – ¼ tsp",
+            "Coriander powder – 1 tsp",
+            "Black pepper powder – ½ tsp",
+            "Lemon juice – 1 tsp",
+            "Rice flour – 2 tsp (for crispiness)",
+            "Salt – as needed",
+            "Oil – for deep frying",
+            "Curry leaves – few (for garnish)"
+        ],
+        "steps": [
+            "Step 1:  Clean the Fish (10 mins):",
+            "Step 2:  Prepare the Marinade (5 mins):",
+            "Step 3:  Marinate the Fish (20 mins resting time)",
+            "Step 4:  Heat the Oil (5 mins):",
+            "Step 5:  Fry the Fish (8–10 mins):"
+        ],
+        "stepDetails": [
+            "Wash the anchovies thoroughly in running water.",
+            "Remove head and guts, drain excess water.",
+            "Mix ginger-garlic paste, chilli powder, turmeric powder, coriander powder, pepper powder, lemon juice, salt, and rice flour.",
+            "Add little water to form a thick paste.",
+            "Coat the cleaned anchovies with the masala paste.",
+            "Rest for 20 minutes to absorb flavors.",
+            "Pour oil in a frying pan and heat on medium flame.",
+            "Drop the marinated anchovies in small batches into hot oil.",
+            "Fry until golden brown and crispy.",
+            "Drain on paper towels."
+        ],
+        "Time Breakdown": [
+            "~50 minutes (including marination)"
+        ],
+        "Serving": [
+            "Fry some curry leaves in the same oil until crisp and use them as garnish."
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Margherita Pizza",
+        "image": "../src/assets/pizza/Margherita Pizza.jpg",
+        "details": [
+            "Pizza dough – 250 g (store-bought or homemade)",
+            "Tomato sauce / Pizza sauce – ½ cup",
+            "Fresh mozzarella cheese – 150 g (sliced or grated)",
+            "Fresh basil leaves – handful",
+            "Olive oil – 2 tbsp",
+            "Salt – a pinch ",
+            "Oregano / Italian seasoning – 1 tsp (optional"
+        ],
+        "steps": [
+            "Step 1:  Prepare the Dough (if homemade) – 15 mins + 1 hr resting",
+            "Step 2:  Preheat Oven (10 mins)",
+            "Step 3:  Prepare the Base (5 mins)",
+            "Step 4:  Spread the Sauce (3 mins)",
+            "Step 5:  Add Cheese & Toppings (5 mins)",
+            "Step 6:  Bake the Pizza (12–15 mins)"
+        ],
+        "stepDetails": [
+            "Mix flour, yeast, salt, sugar, olive oil, and warm water",
+            "Knead for 10 minutes until smooth and elastic.",
+            "Rest covered for 1 hour until it doubles in size.",
+            "Preheat oven to 220°C (425°F)",
+            "Place pizza stone or tray inside while preheating",
+            "Roll out the dough into a thin round base (10–12 inch).",
+            "Place on parchment paper or a greased tray.",
+            "Spread tomato/pizza sauce evenly over the base.",
+            "Leave a little border for the crust.",
+            "Place mozzarella slices or grated cheese on top.",
+            "Add fresh basil leaves.",
+            "Drizzle olive oil lightly.",
+            "Place pizza in preheated oven.",
+            "Bake until the cheese melts and crust turns golden brown."
+        ],
+        "Time Breakdown": [
+            "With homemade dough: 1 hr 55 mins"
+        ],
+        "Serving": [
+            "Remove from oven.",
+            "Cool for 2 minutes, slice, and serve hot"
+        ]
+    },
+    {
+        "id": 26,
+        "name": "Chicken Tikka Pizza",
+        "image": "../src/assets/pizza/Chicken Tikka Pizza.jpg",
+        "details": [
+            "All-purpose flour – 2 cups",
+            "Yeast – 1 tsp",
+            "Sugar – 1 tsp",
+            "Salt – ½ tsp",
+            "Warm water – ¾ cup",
+            "Olive oil – 2 tbsp",
+            "For Chicken Tikka:",
+            "Boneless chicken – 200 g (cut into bite-size pieces)",
+            "Thick curd – 3 tbsp",
+            "Ginger-garlic paste – 1 tsp",
+            "Red chili powder – 1 tsp",
+            "Turmeric powder – ¼ tsp",
+            "Garam masala – ½ tsp",
+            "Garam masala – ½ tsp",
+            "Salt – as required",
+            "Oil – 1 tbsp",
+            "Other Toppings:",
+            "Pizza sauce – 3 tbsp",
+            "Mozzarella cheese (grated) – 1 ½ cups",
+            "Onion (sliced) – ½ cup",
+            "Capsicum (sliced) – ½ cup",
+            "Green chili (optional) – 1–2",
+            "Coriander leaves – few (for garnish)"
+        ],
+        "steps": [
+            "Step 1:  Prepare Pizza Dough (15 mins active + 1 hr resting = 1 hr 15 mins)",
+            "Step 2:  Marinate Chicken Tikka (10 mins + 30 mins resting = 40 mins)",
+            "Step 3:  Cook the Chicken Tikka (10 mins)",
+            "Step 4:  Prepare Pizza Base (10 mins)",
+            "Step 5:  Assemble Pizza (5 mins)",
+            "Step 6:  Bake Pizza (12–15 mins)"
+        ],
+        "stepDetails": [
+            "Mix yeast, sugar, and warm water; rest 10 mins until frothy.",
+            "Add flour, salt, olive oil, and knead into a soft dough (~10 mins).",
+            "Cover and rest for 1 hour until it doubles in size.",
+            "In a bowl, mix curd, ginger-garlic paste, red chili powder, turmeric, garam masala, lemon juice, salt, and oil.",
+            "Add chicken pieces, coat well, and rest for 30 mins.",
+            "Preheat oven to 220°C (425°F).",
+            "Roll out dough into a round base (~½ inch thick).",
+            "Place on a greased baking tray.",
+            "Spread pizza sauce evenly.",
+            "Sprinkle half of the mozzarella cheese.",
+            "Arrange onions, capsicum, green chili, and cooked chicken tikka.",
+            "Top with remaining cheese.",
+            "Bake at 220°C until cheese melts and turns golden."
+        ],
+        "Time Breakdown": [
+            "2 hrs 30 mins (including dough resting and chicken marination)"
+        ],
+        "Serving": [
+            "Bake at 220°C until cheese melts and turns golden.",
+            "Slice and serve hot."
+        ]
+    },
+    {
+        "id": 27,
+        "name": "Garlic Mushroom Pizza",
+        "image": "../src/assets/pizza/Garlic Mushroom Pizza.jpg",
+        "details": [
+            "All-purpose flour – 2 cups",
+            "Yeast – 1 tsp",
+            "Sugar – 1 tsp",
+            "Salt – ½ tsp",
+            "Warm water – ¾ cup",
+            "Olive oil – 2 tbsp",
+            "For Garlic Mushroom Topping",
+            "Fresh mushrooms – 200 g (sliced, patted dry)",
+            "Garlic – 3 cloves (minced)",
+            "Olive oil – 2 tbsp",
+            "Salt – to taste",
+            "Black pepper – ¼ tsp",
+            "Mozzarella cheese (grated) – 1 ½ cups",
+            "Parsley or coriander leaves – few (for garnish)"
+        ],
+        "steps": [
+            "Step 1:  Prepare Pizza Dough (15 mins active + 1 hr resting = 1 hr 15 mins):",
+            "Step 2:  Prepare Mushroom Topping (6–7 mins):",
+            "Step 3:  Prepare Pizza Base (10 mins):",
+            "Step 4:  Assemble Pizza (5 mins):",
+            "Step 5:  Bake Pizza (12–15 mins):"
+        ],
+        "stepDetails": [
+            "Mix yeast, sugar, and warm water; rest 10 mins until frothy.",
+            "Add flour, salt, and olive oil; knead for ~10 mins until smooth.",
+            "Cover and rest 1 hour until dough doubles in size.",
+            "Heat 1 tbsp olive oil in a pan.",
+            "Sauté mushrooms on medium flame until moisture evaporates (~5 mins).",
+            "Add minced garlic, salt, and black pepper; cook 1–2 mins.",
+            "Preheat oven to 220°C (425°F).",
+            "Roll out the risen dough into a round base (~½ inch thick).",
+            "Place on a greased baking tray or parchment paper.",
+            "Brush base lightly with olive oil.",
+            "Sprinkle half of the mozzarella cheese.",
+            "Spread sautéed garlic mushrooms evenly.",
+            "Add optional onions/capsicum if using.",
+            "Top with remaining cheese.",
+            "Bake at 220°C until the cheese melts and the edges turn golden brown."
+        ],
+        "Time Breakdown": [
+            "2 hrs 10–15 mins (including dough resting and mushroom prep)"
+        ],
+        "Serving": [
+            "Sprinkle chopped parsley or coriander."
+        ]
+    },
+    {
+        "id": 28,
+        "name": "Italian Garden Pizza",
+        "image": "../src/assets/pizza/Italian Garden Pizza.jpg",
+        "details": [
+            "Maida / all-purpose flour – 2 cups (250 g)",
+            "Warm water – ¾ cup (180 ml)",
+            "Instant yeast – 1 tsp (3 g)",
+            "Sugar – 1 tsp",
+            "Salt – 1 tsp",
+            "Olive oil – 1½ tbsp",
+            "Quick Pizza Sauce",
+            "Olive oil – 1 tbsp",
+            "Garlic – 2 cloves, minced",
+            "Crushed tomatoes / tomato purée – 1 cup (250 g)",
+            "Dried oregano – 1 tsp",
+            "Dried basil – 1 tsp (or 6–8 fresh leaves, torn, at the end)",
+            "Red chilli flakes – ½ tsp (optional)",
+            "Salt & black pepper – to taste",
+            "Toppings",
+            "Low-moisture mozzarella – 1½ cups (150–170 g), grated",
+            "Bell peppers (mixed colours) – ½ cup, thin strips",
+            "Red onion – ¼ cup, thin slices",
+            "Zucchini – ¼ cup, half-moons (patted dry)",
+            "Mushrooms – ¼ cup, thinly sliced (optional: pre-sauté 2–3 min)",
+            "Cherry tomatoes – ¼ cup, halved",
+            "Black olives – 2 tbsp, sliced",
+            "Baby spinach – small handful",
+            "Fresh basil – 6–8 leaves (for finishing)",
+            "Extra-virgin olive oil – 1–2 tsp (drizzle)",
+            "Pinch of dried oregano or Italian seasoning"
+        ],
+        "steps": [
+            "Step 1:  Start the dough – 15 min active",
+            "Step 2:  First rise – 60 min inactive",
+            "Step 3:  (During the rise: make sauce & prep veg – overlaps time)3) Quick sauce – 12–15 min active (overlaps rise)",
+            "Step 4:  Prep toppings – 10 min active (overlaps rise)"
+        ],
+        "stepDetails": [
+            "In a bowl, mix warm water, sugar, and yeast. Rest 5 min until foamy.",
+            "Add flour, salt, and olive oil. Mix, then knead 8–10 min until smooth and springy.",
+            "Lightly oil a bowl, place dough, cover.",
+            "Let the dough double in size (warm spot).",
+            "Let the dough double in size (warm spot).",
+            "Warm olive oil in a pan, sauté garlic 30 sec.",
+            "Add tomatoes, oregano, basil, chilli flakes, salt, pepper.",
+            "Simmer on low 10–12 min until slightly thick. Cool.",
+            "Slice veggies thin; pat dry (reduces sogginess)."
+        ],
+        "Time Breakdown": [
+            "Total elapsed: ~95–105 min "
+        ],
+        "Serving": [
+            "Out of the oven: add fresh basil, a tiny drizzle of EVOO, crack of black pepper. Rest 1–2 min, slice, serve."
+        ]
+    },
+    {
+        "id": 29,
+        "name": "Cheese Burst Pizza ",
+        "image": "../src/assets/pizza/Cheese Burst Pizza.jpg",
+        "details": [
+            "Maida / all-purpose flour – 2 cups (250 g)",
+            "Warm water – ¾ cup (180 ml)",
+            "Instant yeast – 1 tsp (3 g)",
+            "Sugar – 1 tsp",
+            "Salt – 1 tsp",
+            "Olive oil – 1½ tbsp",
+            "Olive oil – 1 tbsp",
+            "Garlic – 2 cloves, minced",
+            "Crushed tomatoes / tomato purée – 1 cup (250 g)",
+            "Dried oregano – 1 tsp",
+            "Dried basil – 1 tsp (or 6–8 fresh leaves, torn at the end)",
+            "Red chilli flakes – ½ tsp (optional)",
+            "Salt & black pepper – to taste",
+            "Low-moisture mozzarella – 1½ cups (150–170 g), grated",
+            "Bell peppers (any colour) – ½ cup, thin strips",
+            "Red onion – ¼ cup, thin slices",
+            "Sweet corn – ¼ cup (boiled)",
+            "Mushrooms – ¼ cup, thin slices (optional sauté)",
+            "Black olives – 2 tbsp, sliced",
+            "Fresh basil – 6–8 leaves (for finishing)",
+            "Extra-virgin olive oil – 1–2 tsp (drizzle)",
+            "Pinch of dried oregano or Italian seasoning"
+        ],
+        "steps": [
+            "Step 1:  Start the dough – 15 min active",
+            "Step 2:  First rise – 60 min inactive",
+            "Step 3:  Quick sauce – 12–15 min active (overlaps rise)",
+            "Step 4:  Cheese burst filling – 5 min active",
+            "Step 5:  Shape with cheese burst layer – 10 min active"
+        ],
+        "stepDetails": [
+            "Mix warm water, sugar, and yeast. Rest 5 min until foamy.",
+            "Add flour, salt, and olive oil. Knead 8–10 min until soft & slightly sticky (not dry).",
+            "Oil a bowl, place dough, cover.",
+            "Let dough double in size in a warm spot.",
+            "Heat olive oil, sauté garlic 30 sec.",
+            "Add tomatoes, oregano, basil, chilli flakes, salt, pepper.",
+            "Simmer 10–12 min until thick. Cool.",
+            "In a small pan, melt processed cheese with ¼ cup warm milk until smooth.",
+            "Cool slightly – this will be spread between two layers of dough.",
+            "Punch down dough. Divide into 2 portions: ⅔ and ⅓.",
+            "Roll larger portion to 11–12 in (28–30 cm). Place on parchment.",
+            "Spread cheese burst filling in the center, leaving 1.5 in border.",
+            "Roll smaller portion slightly thinner, ~9–10 in, place over filling.",
+            "Seal edges well by pinching, then flatten lightly with hands.",
+            "Now roll gently again to even thickness (~6 mm)."
+        ],
+        "Time Breakdown": [
+            "Total elapsed: ~100–110 min"
+        ],
+        "Serving": [
+            "the cheese burst flow out!"
+        ]
+    },
+    {
+        "id": 30,
+        "name": "Mexican Veg Pizza ",
+        "image": "../src/assets/pizza/Mexican Veg Pizza.jpg",
+        "details": [
+            "Maida / all-purpose flour – 2 cups (250 g)",
+            "Warm water – ¾ cup (180 ml)",
+            "Instant yeast – 1 tsp (3 g)",
+            "Sugar – 1 tsp",
+            "Salt – 1 tsp",
+            "Olive oil – 1½ tbsp",
+            "Garlic – 2 cloves, minced",
+            "Onion – 2 tbsp, finely chopped",
+            "Tomato purée / crushed tomatoes – 1 cup (250 g)",
+            "Red chilli powder / paprika – ½ tsp",
+            "Cumin powder – ½ tsp",
+            "Dried oregano – 1 tsp",
+            "Dried basil – ½ tsp",
+            "Salt & black pepper – to taste",
+            "Low-moisture mozzarella – 1½ cups (150–170 g), grated",
+            "Sweet corn – ¼ cup (boiled)",
+            "Bell peppers (red, yellow, green) – ½ cup, strips",
+            "Red onion – ¼ cup, thin slices",
+            "Jalapeños – 2 tbsp, sliced (pickled or fresh)",
+            "Black olives – 2 tbsp, sliced",
+            "Cherry tomatoes – ¼ cup, halved",
+            "Cooked red kidney beans (rajma) – 2 tbsp (optional, for Mexican touch)",
+            "Fresh coriander – 2 tbsp, chopped (for finishing)",
+            "Extra-virgin olive oil – 1–2 tsp (drizzle)",
+            "Pinch of Mexican seasoning / oregano + chilli flakes"
+        ],
+        "steps": [
+            "Step 1:  Start the dough – 15 min active",
+            "Step 2:  First rise – 60 min inactive",
+            "Step 3:  Make Mexican sauce – 12–15 min active (overlaps rise)",
+            "Step 4:  Prep toppings – 10 min active (overlaps rise)",
+            "Step 5:  Shape base – 5 min active"
+        ],
+        "stepDetails": [
+            "Mix warm water, sugar, yeast. Rest 5 min until foamy.",
+            "Add flour, salt, olive oil. Knead 8–10 min until soft.",
+            "Oil a bowl, place dough, cover.",
+            "Let dough double in size in a warm spot.",
+            "Heat olive oil, sauté garlic & onion 1–2 min",
+            "Add tomato purée, paprika, cumin, oregano, basil, salt, pepper.",
+            "Simmer 10 min until thick & flavorful. Stir in hot sauce if using.",
+            "Boil corn, slice veggies, prep jalapeños/beans. Pat dry to reduce sogginess.",
+            "Preheat oven to 250°C / 475°F with a pizza stone or inverted tray inside.",
+            "Punch down dough. Roll to 11–12 in (28–30 cm), ~5–6 mm thick."
+        ],
+        "Time Breakdown": [
+            "Total elapsed: ~95–105 min"
+        ],
+        "Serving": [
+            "Out of oven: garnish with fresh coriander, extra drizzle of EVOO, crack of pepper. Rest 1–2 min, slice & serve!"
+        ]
+    },
+    {
+        "id": 31,
+        "name": "Classic Chicken Burger",
+        "image": "../src/assets/Burger/Classic Chicken Burger.jpg",
+        "details": [
+            "Boneless chicken – 200 g (minced or finely chopped)",
+            "Bread crumbs – 3 tbsp",
+            "Egg – 1",
+            "Ginger-garlic paste – 1 tsp",
+            "Red chili powder – ½ tsp",
+            "Salt – to taste",
+            "Black pepper – ¼ tsp",
+            "Oil – 1 tbsp ",
+            "For Burger Assembly:",
+            "Burger buns – 2",
+            "Lettuce – 2 leaves",
+            "Tomato – 2 slices",
+            "Onion – 2 slices",
+            "Mayonnaise – 2 tbsp",
+            "Ketchup – 2 tbsp",
+            "Cheese slice – 2"
+        ],
+        "steps": [
+            "Step 1:  Prepare Chicken Patty (10 mins prep + 10 mins cooking = 20 mins):",
+            "Step 2:  Prepare Burger Buns (2–3 mins):",
+            "Step 3:  Assemble Burger (5 mins):"
+        ],
+        "stepDetails": [
+            "Mix minced chicken, bread crumbs, egg, ginger-garlic paste, chili powder, salt, and pepper in a bowl.",
+            "Shape into round patties (~2 cm thick).",
+            "Heat oil in a pan on medium flame and shallow fry patties for 5–6 mins per side until golden and cooked.",
+            "Slice buns in half and lightly toast on a pan until slightly golden.",
+            "Spread mayonnaise and ketchup on bottom bun.",
+            "Place lettuce leaf, tomato slice, onion slice, and cooked chicken patty.",
+            "Add a cheese slice on top.",
+            "Cover with top bun."
+        ],
+        "Time Breakdown": [
+            "30 mins"
+        ],
+        "Serving": [
+            "Serve hot with French fries or potato wedges."
+        ]
+    },
+    {
+        "id": 32,
+        "name": "Veggie Burger",
+        "image": "../src/assets/burger/Veggie Burger.jpg",
+        "details": [
+            "Boiled potatoes – 2 medium (mashed)",
+            "Carrot – ½ cup (grated)",
+            "Beans – ¼ cup (boiled and chopped)",
+            "Sweet corn – ¼ cup (boiled)",
+            "Bread crumbs – 3–4 tbsp",
+            "Salt – to taste",
+            "Black pepper – ¼ tsp",
+            "Red chili powder – ½ tsp",
+            "Oil – 1 tbsp ",
+            "For Burger Assembly:",
+            "Burger buns – 2",
+            "Lettuce – 2 leaves",
+            "Tomato – 2 slices",
+            "Onion – 2 slices",
+            "Mayonnaise – 2 tbsp"
+        ],
+        "steps": [
+            "Step 1:  Prepare Veggie Patty (10 mins prep + 8–10 mins cooking = 18–20 mins):",
+            "Step 2:  Prepare Burger Buns (2–3 mins):",
+            "Step 3:  Assemble Burger (5 mins):"
+        ],
+        "stepDetails": [
+            "In a bowl, mix mashed potatoes, grated carrot, chopped beans, sweet corn, bread crumbs, salt, pepper, and chili powder.",
+            "Shape mixture into round patties (~2 cm thick).",
+            "Heat oil in a pan on medium flame and shallow fry patties for 4–5 mins per side until golden and firm.",
+            "Slice buns in half and lightly toast on a pan until slightly golden.",
+            "Spread mayonnaise and ketchup on bottom bun.",
+            "Place lettuce leaf, tomato slice, onion slice, and cooked veggie patty.",
+            "Add a cheese slice on top."
+        ],
+        "Time Breakdown": [
+            "30–35 mins"
+        ],
+        "Serving": [
+            "Serve hot with French fries or potato wedges."
+        ]
+    },
+    {
+        "id": 33,
+        "name": "Cheese Burst Burger",
+        "image": "../src/assets/burger/Cheese Burst Burger.jpg",
+        "details": [
+            "Boneless chicken – 200 g (minced), Bread crumbs – 3 tbsp, Egg – 1, Ginger-garlic paste – 1 tsp, Salt – to taste, Black pepper – ¼ tsp, Oil – 1 tbsp",
+            "Mozzarella cheese – 50–70 g (cubed or shredded)",
+            "Burger buns – 2",
+            "Lettuce – 2 leaves",
+            "Tomato – 2 slices",
+            "Onion – 2 slices",
+            "Mayonnaise – 2 tbsp",
+            "Ketchup – 2 tbsp"
+        ],
+        "steps": [
+            "Step 1:  Prepare Burger Patty (10 mins prep + 8–10 mins cooking = 18–20 mins):",
+            "Step 2:  Prepare Burger Buns (2–3 mins):",
+            "Step 3:  Assemble Burger (5 mins):"
+        ],
+        "stepDetails": [
+            "Mix minced chicken, bread crumbs, egg, ginger-garlic paste, salt, and pepper.Shape the mixture into round patties.",
+            "Make a small cavity in the center of each patty, place mozzarella cubes inside, and seal carefully.",
+            "Heat oil in a pan and shallow fry patties for 4–5 mins per side until golden and cooked through.",
+            "Slice buns in half and lightly toast on a pan until slightly golden.",
+            "Spread mayonnaise and ketchup on bottom bun.",
+            "Place lettuce leaf, tomato slice, onion slice, and cooked cheese burst patty.",
+            "Add extra mozzarella on top if desired."
+        ],
+        "Time Breakdown": [
+            "35–40 mins"
+        ],
+        "Serving": [
+            "Serve hot, with fries or potato wedges, so the melted cheese bursts on biting."
+        ]
+    },
+    {
+        "id": 34,
+        "name": "Paneer Tikka Burger",
+        "image": "../src/assets/burger/Paneer Tikka Burger.jpg",
+        "details": [
+            "Paneer cubes – 200 g",
+            "Thick curd – 3 tbsp",
+            "Ginger-garlic paste – 1 tsp",
+            "Red chili powder – 1 tsp",
+            "Turmeric powder – ¼ tsp",
+            "Garam masala – ½ tsp",
+            "Lemon juice – 1 tsp",
+            "Salt – to taste",
+            "Oil – 1 tbsp",
+            "Burger buns – 2",
+            "Lettuce – 2 leaves",
+            "Tomato – 2 slices",
+            "Onion – 2 slices",
+            "Mayonnaise – 2 tbsp"
+        ],
+        "steps": [
+            "Step 1:  Marinate Paneer (5–10 mins prep + 20–30 mins resting = 25–40 mins):",
+            "Step 2:  Cook Paneer (5–7 mins):",
+            "Step 3:  Prepare Burger Buns (2–3 mins):",
+            "Step 4:  Assemble Burger (5 mins):",
+            "Step 5:  "
+        ],
+        "stepDetails": [
+            "In a bowl, mix curd, ginger-garlic paste, red chili powder, turmeric, garam masala, lemon juice, salt, and oil.",
+            "Toss paneer cubes in the mixture and let them marinate for 20–30 mins.",
+            "Heat 1 tbsp oil in a pan.",
+            "Sauté marinated paneer cubes until lightly browned on all sides.",
+            "Slice buns in half and lightly toast on a pan until golden.",
+            "Spread mayonnaise and green chutney (if using) on the bottom bun.",
+            "Place lettuce leaf, tomato slice, onion slice, and cooked paneer cubes.",
+            "Add a cheese slice on top.",
+            "Cover with the top bun."
+        ],
+        "Time Breakdown": [
+            "40–45 mins "
+        ],
+        "Serving": [
+            "Serve hot with French fries, potato wedges, or a dipping sauce."
+        ]
+    },
+    {
+        "id": 35,
+        "name": "Crispy Veg Burger",
+        "image": "../src/assets/burger/Crispy Veg Burger.jpg",
+        "details": [
+            "Boiled potatoes – 2 medium (mashed)",
+            "Carrot – ½ cup (grated)",
+            "Green peas – ¼ cup (boiled)",
+            "Corn – ¼ cup (boiled)",
+            "Bread crumbs – 4 tbsp",
+            "Salt – to taste",
+            "Black pepper – ¼ tsp",
+            "Red chili powder – ½ tsp",
+            "Oil – 1",
+            "All-purpose flour – ¼ cup",
+            "Egg – 1 ",
+            "Bread crumbs – ½ cup",
+            "Burger buns – 2",
+            "Lettuce – 2 leaves",
+            "Tomato – 2 slices",
+            "Onion – 2 slices",
+            "Cheese slice – 2 "
+        ],
+        "steps": [
+            "Step 1:  Prepare Veg Patty (10 mins prep + 5–6 mins cooking = 16 mins):",
+            "Step 2:  Coat Patties for Crispiness (5 mins):",
+            "Step 3:  Fry Patties (8–10 mins):",
+            "Step 4:  Prepare Burger Buns (2–3 mins):",
+            "Step 5:  Assemble Burger (5 mins):"
+        ],
+        "stepDetails": [
+            "In a bowl, mix mashed potatoes, grated carrot, boiled peas, corn, bread crumbs, salt, black pepper, and chili powder.",
+            "Shape mixture into round patties (~2 cm thick).",
+            "Dredge patties in flour, dip in beaten egg (or flour-water mix for vegan), and coat with bread crumbs.",
+            "Heat oil in a pan and shallow fry patties until golden brown and crispy (4–5 mins per side).",
+            "Slice buns in half and lightly toast on a pan until golden.",
+            "Spread mayonnaise and ketchup on the bottom bun.",
+            "Place lettuce, tomato slice, onion slice, and crispy veg patty.",
+            "Add cheese slice on top (optional)."
+        ],
+        "Time Breakdown": [
+            "35–40 mins"
+        ],
+        "Serving": [
+            "Serve hot with French fries, potato wedges, or a dipping sauce."
+        ]
+    },
+    {
+        "id": 36,
+        "name": "Double Patty Burger",
+        "image": "../src/assets/burger/Double Patty Burger.jpg",
+        "details": [
+            "Boiled potatoes – 3 medium (mashed)",
+            "Carrot – ¾ cup (grated)",
+            "Green peas – ½ cup (boiled)",
+            "Corn – ½ cup (boiled)",
+            "Bread crumbs – 6 tbsp",
+            "Salt – to taste",
+            "Black pepper – ½ tsp",
+            "Red chili powder – ¾ tsp",
+            "Oil – 2 tbsp ",
+            "For Coating / Crispy Layer:",
+            "All-purpose flour – ⅓ cup",
+            "Egg – 1 ",
+            "Bread crumbs – 1 cup",
+            "For Burger Assembly (makes 2 burgers):",
+            "Burger buns – 2 ",
+            "Lettuce – 2–4 leaves",
+            "Tomato – 4 slices",
+            "Onion – 4 slices",
+            "Cheese slices – 2–4 ",
+            "Mayonnaise – 3–4 tbsp"
+        ],
+        "steps": [
+            "Step 1:  Prepare Veg Patty Mixture (12 mins prep + 6 mins cooking = 18 mins):",
+            "Step 2:  Coat Patties for Crispiness (6 mins):",
+            "Step 3:  Fry Patties (10–12 mins):",
+            "Step 4:  Prepare Burger Buns (2–3 mins):",
+            "Step 5:  Assemble Double Patty Burger (7–8 mins):"
+        ],
+        "stepDetails": [
+            "In a bowl, mix mashed potatoes, grated carrot, boiled peas, corn, bread crumbs, salt, black pepper, and chili powder.",
+            "Dredge patties in flour, dip in beaten egg (or flour-water mix), and coat with bread crumbs.",
+            "Heat oil in a pan and shallow fry all patties until golden and crispy (4–5 mins per side).",
+            "Slice buns in half and lightly toast them on a pan until golden.",
+            "Spread mayonnaise + ketchup on the bottom bun.",
+            "Add lettuce, tomato, onion slice.",
+            "Place 1 crispy patty.",
+            "Add cheese slice ",
+            "Place second patty on top.",
+            "Add more onion/tomato/lettuce if desired.",
+            ""
+        ],
+        "Time Breakdown": [
+            "45 mins"
+        ],
+        "Serving": [
+            "Serve hot with French fries, wedges,  "
+        ]
+    },
+    {
+        "id": 37,
+        "name": "Vanilla Ice Cream",
+        "image": "../src/assets/ice cream/Vanilla Ice Cream.jpg",
+        "details": [
+            "Full-fat milk – 2 cups",
+            "Heavy cream – 1 cup",
+            "Sugar – ¾ cup",
+            "Egg yolks – 4",
+            "Vanilla extract – 2 tsp",
+            ""
+        ],
+        "steps": [
+            "Step 1:  Heat Milk & Cream (5 mins):",
+            "Step 2:  Whisk Egg Yolks & Sugar (2 mins):",
+            "Step 3:  Temper Eggs (2 mins):",
+            "Step 4:  Cook Custard (5–7 mins):",
+            "Step 5:  Add Vanilla (1 min):",
+            "Step 6:  Chill Mixture (30 mins):",
+            "Step 7:  Freeze Ice Cream (6–8 hrs):"
+        ],
+        "stepDetails": [
+            "In a pan, heat milk and cream on medium flame until warm (do not boil).",
+            "In a separate bowl, whisk egg yolks and sugar until pale and creamy.",
+            "Slowly pour warm milk mixture into the egg yolks while whisking continuously to prevent curdling",
+            "Return the mixture to the pan and cook on low flame, stirring continuously until it thickens enough to coat the back of a spoon.",
+            "Remove from heat and stir in vanilla extract.",
+            "Allow the custard to cool to room temperature, then refrigerate for 30 minutes.",
+            "Pour the custard into an ice cream maker or a freezer-safe container.",
+            "Freeze until firm, stirring occasionally if not using a machine to avoid ice crystals",
+            ""
+        ],
+        "Time Breakdown": [
+            "7–8 hours (including chilling and freezing)"
+        ],
+        "Serving": [
+            "Scoop into bowls or cones and serve chilled."
+        ]
+    },
+    {
+        "id": 38,
+        "name": "Mango Ice Cream",
+        "image": "../src/assets/ice cream/Mango Ice Cream.jpg",
+        "details": [
+            "Ripe mangoes – 2 cups (peeled and pureed)",
+            "Heavy cream – 1 cup",
+            "Sweetened condensed milk – 1 cup",
+            ""
+        ],
+        "steps": [
+            "Step 1:  Prepare Mango Puree (5 mins):",
+            "Step 2:  Whip Cream (3–4 mins):",
+            "Step 3:  Mix Mango & Condensed Milk (2–3 mins):",
+            "Step 4:  Chill Mixture (5 mins):",
+            "Step 5:  Freeze Ice Cream (6–8 hrs):"
+        ],
+        "stepDetails": [
+            "Peel and chop ripe mangoes.",
+            "Blend into a smooth puree",
+            "In a bowl, whip heavy cream until soft peaks form.",
+            "Gently fold mango puree and sweetened condensed milk into whipped cream.",
+            "Mix until smooth and well combined.",
+            "Lightly refrigerate the mixture to remove any initial warmth.",
+            "Pour mixture into a freezer-safe container.",
+            "Cover and freeze until firm.",
+            "Stir gently every 2 hours if not using an ice cream maker to avoid ice crystals."
+        ],
+        "Time Breakdown": [
+            "6–8 hours "
+        ],
+        "Serving": [
+            "Scoop into bowls or cones."
+        ]
+    },
+    {
+        "id": 39,
+        "name": "Raspberry Ice Cream",
+        "image": "../src/assets/ice cream/Raspberry Ice Cream.jpg",
+        "details": [
+            "Fresh or frozen raspberries – 1 cup",
+            "Sugar – ¼ cup (adjust based on sweetness of raspberries)",
+            "Heavy cream – 1 cup",
+            "Sweetened condensed milk – 1 cup",
+            ""
+        ],
+        "steps": [
+            "Step 1:  Prepare Raspberry Puree (5 mins):",
+            "Step 2:  Whip Cream (3–4 mins):",
+            "Step 3:  Mix Raspberry & Condensed Milk (2–3 mins):",
+            "Step 4:  Chill Mixture (5 mins):",
+            "Step 5:  Freeze Ice Cream (6–8 hrs):"
+        ],
+        "stepDetails": [
+            "Blend raspberries into a smooth puree.",
+            "Strain through a fine sieve to remove seeds (optional).",
+            "Add lemon juice if desired.",
+            "In a bowl, whip heavy cream until soft peaks form.",
+            "Gently fold raspberry puree and sweetened condensed milk into whipped cream.",
+            "Mix until smooth and fully combined.",
+            "Refrigerate the mixture for a few minutes to remove any initial warmth.",
+            "Pour mixture into a freezer-safe container.",
+            "Cover and freeze until firm.",
+            "Stir gently every 2 hours if not using an ice cream maker to avoid ice crystals."
+        ],
+        "Time Breakdown": [
+            "6–8 hours"
+        ],
+        "Serving": [
+            "Scoop into bowls or cones."
+        ]
+    },
+    {
+        "id": 40,
+        "name": "Macadamia Ice Cream",
+        "image": "../src/assets/ice cream/Macadamia Ice Cream.jpg",
+        "details": [
+            "Full-fat milk – 2 cups",
+            "Heavy cream – 1 cup",
+            "Sugar – ¾ cup",
+            "Egg yolks – 4",
+            "Vanilla extract – 2 tsp",
+            "Macadamia nuts – ½ cup ",
+            ""
+        ],
+        "steps": [
+            "Step 1:  Toast Macadamia Nuts (5 mins):",
+            "Step 2:  Heat Milk & Cream (5 mins):",
+            "Step 3:  Whisk Egg Yolks & Sugar (2 mins):",
+            "Step 4:  Add Vanilla & Nuts (2 mins):",
+            "Step 5:  Freeze Ice Cream (6–8 hrs):"
+        ],
+        "stepDetails": [
+            "Heat a dry pan on medium flame.",
+            "Lightly toast chopped macadamia nuts until golden and fragrant.",
+            "In a pan, heat milk and cream on medium flame until warm (do not boil).",
+            "In a separate bowl, whisk egg yolks and sugar until pale and creamy.",
+            "Slowly pour warm milk mixture into the egg yolks while whisking continuously to prevent curdling.",
+            "Return the mixture to the pan and cook on low flame, stirring continuously until thickened enough to coat the back of a spoon.",
+            "Stir in vanilla extract and toasted macadamia nuts (reserve a few for garnish).",
+            "Allow custard to cool to room temperature, then refrigerate for 30 minutes.",
+            "Pour custard into an ice cream maker or a freezer-safe container.",
+            "Freeze until firm, stirring occasionally if not using a machine to avoid ice crystals."
+        ],
+        "Time Breakdown": [
+            "7–8 hours "
+        ],
+        "Serving": [
+            "Scoop into bowls or cones."
+        ]
+    },
+    {
+        "id": 41,
+        "name": "Bubblegum Ice Cream",
+        "image": "../src/assets/ice cream/Bubblegum Ice Cream.jpg",
+        "details": [
+            "Heavy cream – 1 cup",
+            "Sweetened condensed milk – 1 cup",
+            "Bubblegum flavoring – 1–2 tsp (adjust to taste)",
+            "Pink food coloring – a few drops (optional)",
+            "Small bubblegum pieces or candy bits – ¼ cup",
+            ""
+        ],
+        "steps": [
+            "Step 1:  Whip Cream (3–4 mins):",
+            "Step 2:  Mix Condensed Milk & Flavor (2–3 mins):",
+            "Step 3:  Add Candy Pieces (1–2 mins):",
+            "Step 4:  Freeze Ice Cream (6–8 hrs):",
+            "Step 5:  Chill Mixture (5 mins):"
+        ],
+        "stepDetails": [
+            "In a bowl, whip heavy cream until soft peaks form.",
+            "Gently fold in sweetened condensed milk, bubblegum flavoring, and pink food coloring (if using) into whipped cream.",
+            "Fold in small bubblegum pieces or candy bits gently.",
+            "Lightly refrigerate the mixture to remove any warmth.",
+            "Pour mixture into a freezer-safe container.",
+            "Cover and freeze until firm.",
+            "Stir gently every 2 hours if not using an ice cream maker to prevent ice crystals",
+            ""
+        ],
+        "Time Breakdown": [
+            "6–8 hours "
+        ],
+        "Serving": [
+            "Scoop into bowls or cones."
+        ]
+    },
+    {
+        "id": 42,
+        "name": "Red Velvet Cake",
+        "image": "../src/assets/cake/Red Velvet Cake.jpg",
+        "details": [
+            "All-purpose flour – 2½ cups",
+            "Granulated sugar – 2 cups",
+            "Cocoa powder – 2 tbsp",
+            "Baking soda – 1 tsp",
+            "Salt – ½ tsp",
+            "Buttermilk – 1 cup",
+            "Vegetable oil – 1 cup",
+            "Eggs – 2 large",
+            "Red food coloring – 2 tbsp",
+            "White vinegar – 1 tsp",
+            "Vanilla extract – 2 tsp",
+            "For Cream Cheese Frosting:",
+            "Cream cheese – 250 g (softened)",
+            "Unsalted butter – ½ cup (softened)",
+            "Powdered sugar – 2 cups",
+            "Vanilla extract – 1 tsp"
+        ],
+        "steps": [
+            "Step 1:  Preheat Oven & Prepare Pans (10 mins):",
+            "Step 2:  Mix Dry Ingredients (5 mins):",
+            "Step 3:  Mix Wet Ingredients (5 mins):",
+            "Step 4:  Combine Wet & Dry Ingredients (3–4 mins):",
+            "Step 5:  Bake the Cake (25–30 mins):",
+            "Step 6:  Cool Cakes (30 mins):",
+            "Step 7:  Prepare Cream Cheese Frosting (10 mins):",
+            "Step 8:  Assemble & Frost Cake (15 mins):"
+        ],
+        "stepDetails": [
+            "Preheat oven to 175°C (350°F).",
+            "Grease and line two 8-inch round cake pans.",
+            "In a bowl, sift together flour, cocoa powder, baking soda, and salt.",
+            "In another bowl, whisk buttermilk, oil, eggs, red food coloring, vinegar, and vanilla extract until smooth.",
+            "Gradually add dry ingredients into wet mixture.",
+            "Mix gently until smooth, ensuring no lumps.",
+            "Divide batter evenly between prepared pans.",
+            "Bake at 175°C (350°F) for 25–30 mins or until a toothpick comes out clean.",
+            "Remove cakes from oven and let cool in pans for 10 mins.",
+            "Transfer to a wire rack and cool completely before frosting.",
+            "In a bowl, beat cream cheese and butter until smooth.",
+            "Add powdered sugar gradually and beat until creamy.",
+            "Stir in vanilla extract.",
+            "Place one cake layer on a serving plate.",
+            "Spread a layer of frosting evenly.",
+            "Place second cake layer on top and frost the entire cake."
+        ],
+        "Time Breakdown": [
+            "1 hour 55 mins "
+        ],
+        "Serving": [
+            "Optionally, garnish with red crumbs or chocolate shavings."
+        ]
+    },
+    {
+        "id": 43,
+        "name": "Sponge Cake",
+        "image": "../src/assets/cake/Sponge Cake.jpg",
+        "details": [
+            "All-purpose flour – 1 cup",
+            "Granulated sugar – 1 cup",
+            "Eggs – 4 large",
+            "Milk – ¼ cup (warm)",
+            "Unsalted butter – ¼ cup (melted)",
+            "Vanilla extract – 1 tsp",
+            "Baking powder – 1 tsp",
+            "Salt – ¼ tsp"
+        ],
+        "steps": [
+            "Step 1:  Preheat Oven & Prepare Pan (10 mins):",
+            "Step 2:  Beat Eggs & Sugar (5–6 mins):",
+            "Step 3:  Sift Dry Ingredients (3 mins):",
+            "Step 4:  Fold Dry Ingredients (3–4 mins):",
+            "Step 5:  Add Milk, Butter & Vanilla (2–3 mins):",
+            "Step 6:  Cool the Cake (15–20 mins):"
+    
+        ],
+        "stepDetails": [
+            "Preheat oven to 180°C (350°F).",
+            "Grease and line an 8-inch round cake pan.",
+            "In a large bowl, beat eggs and sugar until pale, fluffy, and doubled in volume.",
+            "Sift flour, baking powder, and salt together.",
+            "Gently fold dry ingredients into the egg-sugar mixture using a spatula.",
+            "Do not overmix to keep the batter airy.",
+            "Fold in warm milk, melted butter, and vanilla extract carefully.",
+            "Pour batter into prepared pan.",
+            "Bake at 180°C (350°F) for 25–30 mins or until a toothpick comes out clean.",
+            "Remove from oven and cool in pan for 10 mins.",
+            "Transfer to a wire rack to cool completely before frosting or slicing."
+        ],
+        "Time Breakdown": [
+            "1 hour 10 mins"
+        ],
+        "Serving": [
+            "Serve plain or decorate with whipped cream, fruits, or chocolate."
+        ]
+    },
+    {
+        "id": 44,
+        "name": "Almond Cake",
+        "image": "../src/assets/cake/Almond Cake.jpg",
+        "details": [
+            "All-purpose flour – 1½ cups",
+            "Almond flour / ground almonds – ½ cup",
+            "Granulated sugar – 1 cup",
+            "Baking powder – 1½ tsp",
+            "Salt – ¼ tsp",
+            "Unsalted butter – ½ cup (softened)",
+            "Eggs – 3 large",
+            "Milk – ½ cup",
+            "Almond extract – 1 tsp",
+            "Sliced almonds – 2 tbsp (for topping)",
+            "Optional Frosting / Glaze:",
+            "Powdered sugar – ½ cup",
+            "Milk – 1–2 tsp",
+            "Almond slices for garnish"
+        ],
+        "steps": [
+            "Step 1:  Preheat Oven & Prepare Pan (10 mins):",
+            "Step 2:  Mix Dry Ingredients (5 mins):",
+            "Step 3:  Cream Butter & Sugar (3–4 mins):",
+            "Step 4:  Add Eggs & Almond Extract (2–3 mins):",
+            "Step 5:  Combine Wet & Dry Ingredients (3–4 mins):",
+            "Step 6:  Pour Batter & Add Topping (2 mins):",
+            "Step 7:  Bake the Cake (30–35 mins):",
+            "Step 8:  Cool Cake (15 mins):"
+        ],
+        "stepDetails": [
+            "Preheat oven to 175°C (350°F).",
+            "Grease and line an 8-inch round cake pan.",
+            "In a bowl, sift together all-purpose flour, almond flour, baking powder, and salt.",
+            "In another bowl, beat softened butter and sugar until light and fluffy.",
+            "Beat in eggs one at a time.",
+            "Add almond extract and mix well.",
+            "Gradually fold dry ingredients into wet mixture.",
+            "Add milk slowly to achieve smooth batter.",
+            "Pour batter into prepared pan.",
+            "Sprinkle sliced almonds on top.",
+            "Bake at 175°C (350°F) for 30–35 mins or until a toothpick inserted in the center comes out clean.",
+            "Let cake cool in pan for 10 mins.",
+            "Transfer to a wire rack to cool completely.",
+            ""
+        ],
+        "Time Breakdown": [
+            "1 hour 15 mins "
+        ],
+        "Serving": [
+            "Mix powdered sugar with a few drops of milk to make a glaze."
+        ]
+    },
+    {
+        "id": 45,
+        "name": "Black Forest Cake",
+        "image": "../src/assets/cake/Black Forest Cake.jpg",
+        "details": [
+            "All-purpose flour – 1½ cups",
+            "Granulated sugar – 1½ cups",
+            "Cocoa powder – ½ cup",
+            "Baking powder – 1½ tsp",
+            "Baking soda – 1 tsp",
+            "Salt – ½ tsp",
+            "Eggs – 2 large",
+            "Milk – 1 cup",
+            "Vegetable oil – ½ cup",
+            "Vanilla extract – 2 tsp",
+            "Boiling water – ½ cup",
+            "For Filling & Frosting:",
+            "Heavy cream – 2 cups",
+            "Powdered sugar – ¼ cup",
+            "Vanilla extract – 1 tsp",
+            "Cherry jam or syrup – ½ cup",
+            "Maraschino cherries – 12–15",
+            "Chocolate shavings – ¼ cup"
+        ],
+        "steps": [
+            "Step 1:  Preheat Oven & Prepare Pans (10 mins):",
+            "Step 2:  Mix Dry Ingredients (3–4 mins):",
+            "Step 3:  Mix Wet Ingredients (3–4 mins):",
+            "Step 4:  Combine Wet & Dry Ingredients (2–3 mins):",
+            "Step 5:  Bake the Cake (25–30 mins):",
+            "Step 6:  Cool Cakes (20 mins):",
+            "Step 7:  Assemble Cake (10 mins):",
+            "Step 8:  Decorate (5 mins):"
+        ],
+        "stepDetails": [
+            "Preheat oven to 175°C (350°F).",
+            "Grease and line two 8-inch round cake pans.",
+            "In a bowl, sift together flour, cocoa powder, baking powder, baking soda, and salt.",
+            "In another bowl, whisk eggs, sugar, milk, oil, and vanilla extract until smooth.",
+            "Gradually fold dry ingredients into wet mixture.",
+            "Slowly add boiling water while mixing gently.",
+            "Divide batter evenly between prepared pans.",
+            "Bake at 175°C (350°F) for 25–30 mins or until a toothpick comes out clean.",
+            "Let cakes cool in pans for 10 mins.",
+            "Transfer to a wire rack to cool completely.",
+            "Beat heavy cream, powdered sugar, and vanilla until soft peaks form.",
+            "Place one cake layer on a serving plate.",
+            "Spread a layer of cherry jam.",
+            "Add a layer of whipped cream and some maraschino cherries.",
+            "Place second cake layer on top.",
+            "Frost entire cake with remaining whipped cream.",
+            "Garnish with chocolate shavings and remaining cherries."
+        ],
+        "Time Breakdown": [
+            "1 hour 45 mins "
+        ],
+        "Serving": [
+            "Slice and serve chilled."
+        ]
+    },
+    {
+        "id": 46,
+        "name": "Mocha Cake",
+        "image": "../src/assets/cake/Mocha Cake.jpg",
+        "details": [
+            "All-purpose flour – 1½ cups",
+            "Granulated sugar – 1 cup",
+            "Cocoa powder – ¼ cup",
+            "Baking powder – 1½ tsp",
+            "Baking soda – 1 tsp",
+            "Salt – ½ tsp",
+            "Eggs – 2 large",
+            "Strong brewed coffee – ½ cup (cooled)",
+            "Milk – ½ cup",
+            "Vegetable oil – ½ cup",
+            "Vanilla extract – 1 tsp",
+            "For Coffee Buttercream Frosting:",
+            "Unsalted butter – ½ cup (softened)",
+            "Powdered sugar – 1½ cups",
+            "Strong brewed coffee – 1–2 tbsp",
+            "Cocoa powder – 1 tbsp (optional for extra mocha flavor)"
+        ],
+        "steps": [
+            "Step 1:  Preheat Oven & Prepare Pan (10 mins):",
+            "Step 2:  Mix Dry Ingredients (3–4 mins):",
+            "Step 3:  Mix Wet Ingredients (3–4 mins):",
+            "Step 4:  Combine Wet & Dry Ingredients (2–3 mins):",
+            "Step 5:  Bake the Cake (30–35 mins):",
+            "Step 6:  Cool Cake (15–20 mins):",
+            "Step 7:  Prepare Coffee Buttercream (5–6 mins):",
+            "Step 8:  Frost & Assemble Cake (10 mins):"
+        ],
+        "stepDetails": [
+            "Preheat oven to 175°C (350°F).",
+            "Grease and line an 8-inch round or square cake pan.",
+            "In a bowl, sift together flour, cocoa powder, baking powder, baking soda, and salt.",
+            "In another bowl, whisk eggs, sugar, coffee, milk, oil, and vanilla extract until smooth.",
+            "Gradually fold dry ingredients into wet mixture.",
+            "Mix gently until smooth and lump-free.",
+            "Pour batter into prepared pan.",
+            "Bake at 175°C (350°F) for 30–35 mins or until a toothpick comes out clean.",
+            "Let cake cool in pan for 10 mins.",
+            "Transfer to a wire rack to cool completely.",
+            "Beat butter until creamy.",
+            "Gradually add powdered sugar and cocoa powder (if using).",
+            "Add coffee gradually and beat until smooth and fluffy.",
+            "Spread frosting evenly over cooled cake.",
+            "Optionally, layer cake with frosting if making a double-layer cake."
+        ],
+        "Time Breakdown": [
+            "1 hour 30–35 mins "
+        ],
+        "Serving": [
+            "Decorate with chocolate shavings or coffee beans."
+        ]
+    },
+    {
+        "id": 47,
+        "name": "Rainbow Cake",
+        "image": "../src/assets/cake/Rainbow Cake.jpg",
+        "details": [
+            "All-purpose flour – 2½ cups",
+            "Granulated sugar – 2 cups",
+            "Baking powder – 2½ tsp",
+            "Salt – ½ tsp",
+            "Eggs – 4 large",
+            "Milk – 1 cup",
+            "Vegetable oil – ½ cup",
+            "Vanilla extract – 2 tsp",
+            "For Coloring & Frosting:",
+            "Food coloring – Red, Orange, Yellow, Green, Blue, Purple",
+            "Heavy cream – 2 cups",
+            "Powdered sugar – ¼ cup",
+            "Vanilla extract – 1 tsp"
+        ],
+        "steps": [
+            "Step 1:  Preheat Oven & Prepare Pans (10 mins):",
+            "Step 2:  Mix Dry Ingredients (3–4 mins):",
+            "Step 3:  Mix Wet Ingredients (3–4 mins):",
+            "Step 4:  Combine Wet & Dry Ingredients (3 mins):",
+            "Step 5:  Divide Batter & Add Colors (5 mins):",
+            "Step 6:  Bake the Cakes (12–15 mins per layer):",
+            "Step 7:  Prepare Whipped Cream Frosting (5–6 mins):",
+            "Step 8:  Assemble Cake (15 mins):"
+        ],
+        "stepDetails": [
+            "Preheat oven to 175°C (350°F).",
+            "Grease and line 6 small cake pans (or bake in batches if using fewer pans).",
+            "In a bowl, sift together flour, baking powder, and salt.",
+            "In another bowl, whisk eggs, sugar, milk, oil, and vanilla extract until smooth.",
+            "Gradually fold dry ingredients into wet mixture until smooth and lump-free.",
+            "Divide batter equally into 6 bowls.",
+            "Add a few drops of each food coloring to each bowl to get Red, Orange, Yellow, Green, Blue, and Purple batter.",
+            "Mix gently until colors are uniform.",
+            "Pour each colored batter into prepared pans.",
+            "Bake at 175°C (350°F) for 12–15 mins or until a toothpick comes out clean.",
+            "Cool layers in pans for 5 mins, then transfer to wire racks.",
+            "Beat heavy cream, powdered sugar, and vanilla extract until soft peaks form.",
+            "Place Red layer on serving plate. Spread a thin layer of frosting.",
+            "Continue layering Orange, Yellow, Green, Blue, and Purple layers with frosting in between.",
+            "Frost the top and sides of the cake evenly."
+        ],
+        "Time Breakdown": [
+            "1 hour 45–50 mins "
+        ],
+        "Serving": [
+            "Slice and serve to reveal vibrant rainbow layers."
+        ]
+    },
+    {
+        "id": 48,
+        "name": "Dark Chocolate ",
+        "image": "../src/assets/chocolate/Dark Chocolate.jpg",
+        "details": [
+            "Cocoa powder – 1 cup",
+            "Cocoa butter – ½ cup",
+            "Powdered sugar – ½ cup (adjust to taste)",
+            "Vanilla extract – 1 tsp",
+            "Pinch of salt"
+        ],
+        "steps": [
+            "Step 1:  Melt Cocoa Butter (5 mins):",
+            "Step 2:  Mix Cocoa & Sugar (2–3 mins):",
+            "Step 3:  Combine & Stir (3–4 mins):",
+            "Step 4:  Pour into Molds (2 mins):",
+            "Step 5:  Set Chocolate (20–30 mins):"
+        ],
+        "stepDetails": [
+            "Chop cocoa butter into small pieces.",
+            "Melt it gently in a double boiler over low heat.",
+            "Sift cocoa powder to remove lumps.",
+            "Add powdered sugar and a pinch of salt to melted cocoa butter.",
+            "Stir continuously until smooth and glossy.",
+            "Add vanilla extract and mix well.",
+            "Pour mixture into silicone or lined molds.",
+            "Tap lightly to remove air bubbles.",
+            "",
+            ""
+        ],
+        "Time Breakdown": [
+            "35–40 mins "
+        ],
+        "Serving": [
+            "Refrigerate until firm."
+        ]
+    },
+    {
+        "id": 49,
+        "name": "White Chocolate ",
+        "image": "../src/assets/chocolate/White Chocolate.jpg",
+        "details": [
+            "Cocoa butter – ½ cup",
+            "Powdered sugar – ½ cup (adjust to taste)",
+            "Milk powder – ¼ cup",
+            "Vanilla extract – 1 tsp"
+        ],
+        "steps": [
+            "Step 1:  Melt Cocoa Butter (5 mins):",
+            "Step 2:  Mix Sugar & Milk Powder (2–3 mins):",
+            "Step 3:  Combine & Stir (3–4 mins):",
+            "Step 4:  Pour into Molds (2 mins):"
+        ],
+        "stepDetails": [
+            "Chop cocoa butter into small pieces.",
+            "Melt gently in a double boiler over low heat.",
+            "Sift powdered sugar and milk powder together to remove lumps.",
+            "Gradually add sugar-milk mixture into melted cocoa butter.",
+            "Stir continuously until smooth and glossy.",
+            "Add vanilla extract and mix well.",
+            "Pour mixture into silicone or lined molds.",
+            "Tap lightly to remove air bubbles."
+        ],
+        "Time Breakdown": [
+            "35–40 mins "
+        ],
+        "Serving": [
+            "Pop out chocolates from molds once fully set."
+        ]
+    },
+    {
+        "id": 50,
+        "name": "Fruits & Nuts Chocolate ",
+        "image": "../src/assets/chocolate/Fruits & Nuts Chocolate.jpg",
+        "details": [
+            "Dark chocolate (60–70%) – 1 ½ cups (350 g)",
+            "Mixed nuts – ½ cup (almonds, cashews, pistachios, walnuts)",
+            "Dried fruits – ½ cup (raisins, cranberries, apricots, figs, or mix)",
+            "Coconut oil / butter – 1 tbsp (optional, for smoothness & shine)",
+            "Flaky sea salt – a pinch (optional)"
+        ],
+        "steps": [
+            "Step 1:  Prep Nuts & Fruits (5–7 mins):",
+            "Step 2:  Melt Chocolate (5–6 mins):",
+            "Step 3:  Pour into Molds/Tray (2–3 mins):",
+            "Step 4:  Set Chocolate (20–30 mins):"
+        ],
+        "stepDetails": [
+            "Roughly chop nuts and dried fruits.",
+            "Lightly toast nuts in a dry pan (4–5 mins) until fragrant.",
+            "Set aside to cool.",
+            "Chop chocolate into small pieces.",
+            "Melt gently in a double boiler or microwave (30-sec bursts).",
+            "Stir until smooth and glossy.",
+            "Add coconut oil/butter if using.",
+            "Mix half of the toasted nuts and fruits into the melted chocolate.",
+            "Stir well to coat evenly.",
+            "Line a tray with parchment or use silicone molds.",
+            "Pour chocolate mixture in.",
+            "Sprinkle the remaining fruits and nuts on top.",
+            "Tap lightly to remove air bubbles."
+        ],
+        "Time Breakdown": [
+            "35–45 mins "
+        ],
+        "Serving": [
+            "Refrigerate until firm and set."
+        ]
+    },
+    {
+        "id": 51,
+        "name": "Rasgulla sweets",
+        "image": "../src/assets/sweets/Rasgulla sweets.jpg",
+        "details": [
+            "Full-fat milk – 1 liter",
+            "Lemon juice / vinegar – 2 tbsp (diluted in 2 tbsp water)",
+            "Ice-cold water – ¼ cup (for washing curds)",
+            "For Sugar Syrup:",
+            "Sugar – 1 cup",
+            "Water – 4 cups",
+            "Cardamom pods – 2–3, crushed",
+            "Rose water – 1 tsp (optional)"
+        ],
+        "steps": [
+            "Step 1:  Prepare Chhena (Paneer) – 20 min",
+            "Step 2:  Knead Chhena – 5–7 min",
+            "Step 3:  Shape Rasgullas – 5–7 min",
+            "Step 4:  Prepare Sugar Syrup – 5 min",
+            "Step 5:  Cook Rasgullas – 15–18 min",
+            "Step 6:  Cool & Flavor – 5–10 min"
+        ],
+        "stepDetails": [
+            "Boil milk in a heavy-bottom pan over medium heat (8–10 min).",
+            "Once boiling, add lemon juice/vinegar gradually while stirring gently. Milk curdles.",
+            "Turn off heat, let it sit 2 min.",
+            "Strain curds using a muslin cloth. Rinse under cold water to remove acidity (2–3 min).",
+            "Squeeze out excess water and hang for 15–20 min to drain completely.",
+            "Transfer chhena to a flat surface.",
+            "Knead with palm until smooth and soft (no lumps).",
+            "Optional: add a pinch of semolina or flour to bind slightly if needed.",
+            "Roll gently into smooth, crack-free balls.",
+            "In a wide pan, combine sugar and water.",
+            "Boil until sugar dissolves completely. Add crushed cardamom.",
+            "Ensure syrup has enough space for balls to expand.",
+            "Gently add balls into boiling syrup.",
+            "Cover pan with lid and cook on medium heat for 15–18 min.",
+            "Rasgullas will double in size and become spongy.",
+            "Stir gently once midway to prevent sticking."
+        ],
+        "Time Breakdown": [
+            "Chhena prep: 20 min",
+            "Kneading & shaping: 12–14 min",
+            "Sugar syrup & cooking: 20–23 min",
+            "Total elapsed: ~55–60 min"
+        ],
+        "Serving": [
+            "Add rose water if desired."
+        ]
+    },
+    {
+        "id": 52,
+        "name": "Gulab Jamun sweets",
+        "image": "../src/assets/sweets/Gulab Jamun sweets.jpg",
+        "details": [
+            "Khoya / Mawa – 250 g (grated or crumbled)",
+            "All-purpose flour (Maida) – 2–3 tbsp",
+            "Milk – 2–3 tbsp (as needed to form dough)",
+            "Ghee / Oil – for deep frying",
+            "For Sugar Syrup:",
+            "Sugar – 1 cup",
+            "Water – 1 cup",
+            "Cardamom pods – 2–3, crushed",
+            "Rose water – 1 tsp (optional)",
+            "Saffron strands – a few (optional)"
+        ],
+        "steps": [
+            "Step 1:  Prepare Sugar Syrup – 10 min",
+            "Step 2:  Prepare Dough – 8–10 min",
+            "Step 3:  Shape Gulab Jamuns – 5–7 min",
+            "Step 4:  Fry Gulab Jamuns – 10–12 min",
+            "Step 5:  Soak in Syrup – 15–20 min"
+        ],
+        "stepDetails": [
+            "Combine sugar and water in a pan.",
+            "Boil until sugar dissolves completely.",
+            "Add crushed cardamom, saffron, and rose water (optional).",
+            "Keep warm on very low flame.",
+            "In a bowl, mix grated khoya and flour.",
+            "Add milk gradually to form a soft, smooth, non-sticky dough.",
+            "Do not over-knead; just enough to bind.",
+            "Divide dough into small portions (~15–20 g each).",
+            "Roll gently into smooth, crack-free balls",
+            "Keep small; they expand while frying.",
+            "Heat ghee/oil in a deep pan over medium-low flame.",
+            "Fry the balls gently, stirring continuously, until golden brown on all sides.",
+            "Remove with slotted spoon and drain on paper towel briefly.",
+            "Immediately transfer warm Gulab Jamuns into warm sugar syrup.",
+            "Let them soak for at least 15–20 min to absorb syrup fully."
+        ],
+        "Time Breakdown": [
+            "Sugar syrup prep: 10 min",
+            "Dough prep & shaping: 13–17 min",
+            "Frying: 10–12 min",
+            "Soaking in syrup: 15–20 min",
+            "Total elapsed: ~50–60 min"
+        ],
+        "Serving": [
+            "Can garnish with chopped nuts."
+        ]
+    },
+    {
+        "id": 53,
+        "name": "Ladoo sweets",
+        "image": "../src/assets/sweets/Ladoo sweets.jpg",
+        "details": [
+            "Besan (gram flour) – 1 cup",
+            "Ghee – ½ cup (100 g)",
+            "Powdered sugar – ¾ cup",
+            "Cardamom powder – ½ tsp",
+            "Chopped nuts (cashews, almonds) – 2 tbsp (optional)"
+        ],
+        "steps": [
+            "Step 1:  Roast Besan – 10–12 min",
+            "Step 2:  Cool Slightly – 5 min",
+            "Step 3:  Add Sugar & Flavor – 3–4 min",
+            "Step 4:  Add Sugar & Flavor – 3–4 min"
+        ],
+        "stepDetails": [
+            "Heat ghee in a heavy-bottom pan on low flame.",
+            "Add besan gradually, stirring continuously to avoid lumps.",
+            "Roast until the mixture turns golden brown and aromatic (10–12 min).",
+            "Remove from heat and let the roasted besan mixture cool slightly (warm, not hot).",
+            "Add powdered sugar and cardamom powder.",
+            "Mix thoroughly until smooth and uniform.",
+            "Add chopped nuts if using.",
+            "Take small portions of the mixture in your palm.",
+            "Roll into smooth, round balls (about the size of a walnut).",
+            "Repeat with the remaining mixture."
+        ],
+        "Time Breakdown": [
+            "Roasting besan: 10–12 min",
+            "Cooling & mixing: 8–9 min",
+            "Shaping ladoos: 5–7 min",
+            "Total elapsed: ~25–30 min"
+        ],
+        "Serving": [
+            "Store in an airtight container for up to 1–2 weeks."
+        ]
+    },
+    {
+        "id": 54,
+        "name": "Jalebi sweets",
+        "image": "../src/assets/sweets/Jalebi sweets.jpg",
+        "details": [
+            "All-purpose flour (Maida) – 1 cup",
+            "Yogurt – ¼ cup",
+            "Water – ⅓ cup (adjust for batter consistency)",
+            "A pinch of baking soda or eno fruit salt – ¼ tsp",
+            "Saffron strands – a few (optional, for color)",
+            "For Sugar Syrup:",
+            "Sugar – 1 cup",
+            "Water – ½ cup",
+            "Cardamom pods – 2, crushed",
+            "Lemon juice – ½ tsp (prevents crystallization)",
+            "Rose water – 1 tsp (optional)"
+        ],
+        "steps": [
+            "Step 1:  Prepare Batter – 5–7 min",
+            "Step 2:  Prepare Sugar Syrup – 10 min",
+            "Step 3:  Heat Oil / Ghee – 5 min",
+            "Step 4:  Fry Jalebis – 10–12 min per batch",
+            "Step 5:  Soak in Sugar Syrup – 5 min"
+        ],
+        "stepDetails": [
+            "In a bowl, mix flour and yogurt.",
+            "Add water gradually to form a smooth, slightly thick batter (like pancake batter).",
+            "Cover and let it ferment at room temperature for 6–8 hours (or overnight) for soft Jalebis.",
+            "Combine sugar and water in a pan, bring to boil.",
+            "Add crushed cardamom and lemon juice.",
+            "Boil until slightly sticky (one-string consistency).",
+            "Add rose water and keep warm.",
+            "Heat ghee/oil on medium flame for frying.",
+            "Pour batter into a piping bag or squeeze bottle.",
+            "Squeeze spirals directly into hot oil, forming circles or pretzel-like shapes.",
+            "Fry until crisp and golden on both sides.",
+            "Remove and drain excess oil on paper towels."
+        ],
+        "Time Breakdown": [
+            "Batter prep: 5–7 min",
+            "Fermentation: 6–8 hours (inactive)",
+            "Sugar syrup: 10 min",
+            "Frying & soaking: 15–20 min",
+            "Total elapsed (including fermentation): ~6–8 hours"
+        ],
+        "Serving": [
+            "Immediately dip fried Jalebis in warm sugar syrup for 2–3 min."
+        ]
+    },
+    {
+        "id": 55,
+        "name": "Coconut Barfi sweets",
+        "image": "../src/assets/sweets/Coconut Barfi sweets.jpg",
+        "details": [
+            "Fresh grated coconut – 2 cups (or desiccated coconut – 2 cups)",
+            "Sugar – 1 cup",
+            "Milk – ½ cup",
+            "Ghee – 2 tbsp (for greasing & cooking)",
+            "Cardamom powder – ½ tsp",
+            "Chopped nuts (cashews, almonds) – 2 tbsp (optional, for garnish)"
+        ],
+        "steps": [
+            "Step 1:  Prepare Pan & Ingredients – 2–3 min",
+            "Step 2:  Cook Coconut Mixture – 10–12 min",
+            "Step 3:  Add Flavor – 1–2 min",
+            "Step 4:  Set Barfi – 5–7 min",
+            "Step 5:  "
+        ],
+        "stepDetails": [
+            "Grease a plate or tray with 1 tsp ghee and keep aside.",
+            "Measure all ingredients.",
+            "In a non-stick pan, add grated coconut, sugar, and milk.",
+            "Cook on medium flame, stirring continuously to prevent sticking.",
+            "Cook until mixture thickens and starts leaving the sides of the pan (~10–12 min).",
+            "Add cardamom powder and mix well.",
+            "Add 1 tsp ghee for shine (optional).",
+            "Pour the mixture into the greased tray.",
+            "Flatten evenly using a spatula.",
+            "Sprinkle chopped nuts on top and press lightly."
+        ],
+        "Time Breakdown": [
+            "Prep & greasing: 2–3 min",
+            "Cooking coconut mixture: 10–12 min",
+            "Flavoring & setting: 6–9 min",
+            "Total elapsed: ~18–24 min"
+
+        ],
+        "Serving": [
+            ""
+        ]
+    },
+    {
+        "id": 56,
+        "name": "Mysore Pak sweets",
+        "image": "../src/assets/sweets/Mysore Pak sweets.jpg",
+        "details": [
+            "Besan (gram flour) – 1 cup",
+            "Ghee – 1 cup ",
+            "Sugar – 1 cup",
+            "Water – ½ cup",
+            "Cardamom powder – ½ tsp (optional)"
+        ],
+        "steps": [
+            "Step 1:  Prepare Sugar Syrup – 5–7 min",
+            "Step 2:  Roast Besan – 2–3 min",
+            "Step 3:  Mix Besan & Syrup – 5 min",
+            "Step 4:  Add Ghee – 10–12 min",
+            "Step 5:  Add Flavor – 1 min",
+            "Step 6:  Set & Cut – 5–7 min"
+        ],
+        "stepDetails": [
+            "In a pan, combine sugar and water.",
+            "Boil until sugar dissolves completely and syrup reaches one-string consistency.",
+            "Keep warm on low flame.",
+            "Lightly roast besan in a dry pan for 2–3 min on low flame to remove raw smell.",
+            "Do not brown; keep it pale.",
+            "Gradually add roasted besan to the hot sugar syrup while stirring continuously to avoid lumps.",
+            "Mix well to form a smooth, thick batter.",
+            "Add ghee slowly in small portions while stirring.",
+            "Cook on low-medium flame, stirring continuously.",
+            "Batter will start leaving the sides and become frothy.",
+            "Add cardamom powder (optional) and mix gently.",
+            "Grease a plate or tray with ghee.",
+            "Pour the hot mixture into the tray and spread evenly.",
+            "Allow to cool slightly (still warm) and cut into squares or rectangles using a greased knife."
+        ],
+        "Time Breakdown": [
+            "Sugar syrup prep: 5–7 min",
+            "Roasting & mixing: 7–10 min",
+            "Cooking with ghee: 10–12 min",
+            "Setting & cutting: 5–7 min",
+            "Cooling: 15–20 min",
+            "Total elapsed: ~42–56 min"
+            
+        ],
+        "Serving": [
+            "Let Mysore Pak cool completely to firm up before serving or storing."
+        ]
+    }
+]
